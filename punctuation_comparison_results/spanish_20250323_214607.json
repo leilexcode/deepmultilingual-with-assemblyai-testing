@@ -1,0 +1,21 @@
+{
+  "file_name": "spanish.mp3",
+  "language": "unknown",
+  "processing_times": {
+    "assemblyai_transcription": 5.556360960006714,
+    "assemblyai_punctuation": 4.370656967163086,
+    "deepmultilingual": 7.2815752029418945
+  },
+  "comparison": {
+    "original_word_count": 75,
+    "assemblyai_word_count": 75,
+    "deepmultilingual_word_count": 75,
+    "assemblyai_punctuation_marks": 13,
+    "deepmultilingual_punctuation_marks": 16
+  },
+  "texts": {
+    "unpunctuated": "mamá una cosa voy a ir al supermercado por si quieres que compre algo había pensado en comprar dos barras de pan para el desayuno unos tomates unas cebollas y lo que no sé es si quedan patatas si lo puedes mirar y me avisas te lo agradezco y luego también si necesitas alguna otra cosa me lo escribes en un mensaje o me llamas pero rápido porque voy a ir ya chao te quiero",
+    "assemblyai_punctuated": "Mamá, una cosa, voy a ir al supermercado por si quieres que compre algo. Había pensado en comprar dos barras de pan para el desayuno, unos tomates, unas cebollas y lo que no sé es si quedan patatas. Si lo puedes mirar y me avisas, te lo agradezco. Y luego también si necesitas alguna otra cosa, me lo escribes en un mensaje o me llamas, pero rápido porque voy a ir ya. Chao, te quiero.",
+    "deepmultilingual_punctuated": "mamá, una cosa: voy a ir al supermercado por si quieres que compre algo. había pensado en comprar dos barras de pan para el desayuno, unos tomates, unas cebollas y lo que no sé es si quedan patatas. si lo puedes mirar y me avisas, te lo agradezco. y luego también, si necesitas alguna otra cosa, me lo escribes en un mensaje o me llamas, pero rápido, porque voy a ir. ya, chao, te quiero."
+  }
+}

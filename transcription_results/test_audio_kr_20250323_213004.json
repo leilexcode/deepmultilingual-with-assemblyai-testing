@@ -1,0 +1,2210 @@
+{
+  "status": "success",
+  "processing_time": 52.3155300617218,
+  "total_duration": 238,
+  "word_count": 314,
+  "average_confidence": 0.09440127388535031,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "안녕하세요.",
+      "confidence": 0.032,
+      "start": 4514,
+      "end": 5635,
+      "duration": 1121
+    },
+    {
+      "word": "오늘은",
+      "confidence": 0.1,
+      "start": 6316,
+      "end": 6916,
+      "duration": 600
+    },
+    {
+      "word": "취미에",
+      "confidence": 0.028,
+      "start": 7297,
+      "end": 7737,
+      "duration": 440
+    },
+    {
+      "word": "대해서",
+      "confidence": 0.105,
+      "start": 7857,
+      "end": 8378,
+      "duration": 521
+    },
+    {
+      "word": "이야기할",
+      "confidence": 0.062,
+      "start": 8618,
+      "end": 9258,
+      "duration": 640
+    },
+    {
+      "word": "거예요.",
+      "confidence": 0.375,
+      "start": 9419,
+      "end": 10059,
+      "duration": 640
+    },
+    {
+      "word": "취미는",
+      "confidence": 0.0,
+      "start": 10860,
+      "end": 11400,
+      "duration": 540
+    },
+    {
+      "word": "내가",
+      "confidence": 0.127,
+      "start": 11561,
+      "end": 11881,
+      "duration": 320
+    },
+    {
+      "word": "좋아하는",
+      "confidence": 0.102,
+      "start": 12021,
+      "end": 12622,
+      "duration": 601
+    },
+    {
+      "word": "거예요.",
+      "confidence": 0.37,
+      "start": 12722,
+      "end": 13122,
+      "duration": 400
+    },
+    {
+      "word": "예를",
+      "confidence": 0.196,
+      "start": 13943,
+      "end": 14163,
+      "duration": 220
+    },
+    {
+      "word": "들면,",
+      "confidence": 0.09,
+      "start": 14263,
+      "end": 14703,
+      "duration": 440
+    },
+    {
+      "word": "저는",
+      "confidence": 0.113,
+      "start": 15064,
+      "end": 15444,
+      "duration": 380
+    },
+    {
+      "word": "쉴",
+      "confidence": 0.5,
+      "start": 15454,
+      "end": 15915,
+      "duration": 461
+    },
+    {
+      "word": "때",
+      "confidence": 0.0,
+      "start": 15925,
+      "end": 16105,
+      "duration": 180
+    },
+    {
+      "word": "게임을",
+      "confidence": 0.112,
+      "start": 16325,
+      "end": 16765,
+      "duration": 440
+    },
+    {
+      "word": "해요.",
+      "confidence": 0.0,
+      "start": 16865,
+      "end": 17466,
+      "duration": 601
+    },
+    {
+      "word": "게임하는",
+      "confidence": 0.136,
+      "start": 17967,
+      "end": 18487,
+      "duration": 520
+    },
+    {
+      "word": "것을",
+      "confidence": 0.059,
+      "start": 18567,
+      "end": 18927,
+      "duration": 360
+    },
+    {
+      "word": "좋아해요.",
+      "confidence": 0.028,
+      "start": 19128,
+      "end": 19728,
+      "duration": 600
+    },
+    {
+      "word": "그리고",
+      "confidence": 0.164,
+      "start": 20429,
+      "end": 20809,
+      "duration": 380
+    },
+    {
+      "word": "재미있어요.",
+      "confidence": 0.029,
+      "start": 20929,
+      "end": 21750,
+      "duration": 821
+    },
+    {
+      "word": "그러면",
+      "confidence": 0.142,
+      "start": 22471,
+      "end": 22931,
+      "duration": 460
+    },
+    {
+      "word": "게임이",
+      "confidence": 0.001,
+      "start": 23191,
+      "end": 23672,
+      "duration": 481
+    },
+    {
+      "word": "제",
+      "confidence": 0.09,
+      "start": 23852,
+      "end": 24072,
+      "duration": 220
+    },
+    {
+      "word": "취미예요.",
+      "confidence": 0.254,
+      "start": 24312,
+      "end": 24933,
+      "duration": 621
+    },
+    {
+      "word": "여러분은",
+      "confidence": 0.059,
+      "start": 25996,
+      "end": 26797,
+      "duration": 801
+    },
+    {
+      "word": "취미가",
+      "confidence": 0.001,
+      "start": 26817,
+      "end": 27637,
+      "duration": 820
+    },
+    {
+      "word": "있어요?",
+      "confidence": 0.068,
+      "start": 27677,
+      "end": 28178,
+      "duration": 501
+    },
+    {
+      "word": "여러분의",
+      "confidence": 0.187,
+      "start": 29038,
+      "end": 29538,
+      "duration": 500
+    },
+    {
+      "word": "취미는",
+      "confidence": 0.083,
+      "start": 29558,
+      "end": 30099,
+      "duration": 541
+    },
+    {
+      "word": "뭐예요?",
+      "confidence": 0.062,
+      "start": 30219,
+      "end": 30739,
+      "duration": 520
+    },
+    {
+      "word": "제",
+      "confidence": 0.1,
+      "start": 31780,
+      "end": 31980,
+      "duration": 200
+    },
+    {
+      "word": "취미는",
+      "confidence": 0.003,
+      "start": 32159,
+      "end": 32720,
+      "duration": 561
+    },
+    {
+      "word": "산책하는",
+      "confidence": 0.096,
+      "start": 32861,
+      "end": 33541,
+      "duration": 680
+    },
+    {
+      "word": "거예요.",
+      "confidence": 0.042,
+      "start": 33641,
+      "end": 34042,
+      "duration": 401
+    },
+    {
+      "word": "날씨가",
+      "confidence": 0.067,
+      "start": 34942,
+      "end": 35463,
+      "duration": 521
+    },
+    {
+      "word": "좋을",
+      "confidence": 0.01,
+      "start": 35583,
+      "end": 35783,
+      "duration": 200
+    },
+    {
+      "word": "때",
+      "confidence": 0.015,
+      "start": 36003,
+      "end": 36163,
+      "duration": 160
+    },
+    {
+      "word": "공원에",
+      "confidence": 0.0,
+      "start": 36423,
+      "end": 36824,
+      "duration": 401
+    },
+    {
+      "word": "가서",
+      "confidence": 0.138,
+      "start": 36944,
+      "end": 37264,
+      "duration": 320
+    },
+    {
+      "word": "산책을",
+      "confidence": 0.013,
+      "start": 37284,
+      "end": 38084,
+      "duration": 800
+    },
+    {
+      "word": "해요.",
+      "confidence": 0.051,
+      "start": 38165,
+      "end": 38425,
+      "duration": 260
+    },
+    {
+      "word": "산책을",
+      "confidence": 0.047,
+      "start": 39485,
+      "end": 40006,
+      "duration": 521
+    },
+    {
+      "word": "할",
+      "confidence": 0.2,
+      "start": 40086,
+      "end": 40186,
+      "duration": 100
+    },
+    {
+      "word": "때",
+      "confidence": 0.111,
+      "start": 40366,
+      "end": 40546,
+      "duration": 180
+    },
+    {
+      "word": "노래",
+      "confidence": 0.152,
+      "start": 40706,
+      "end": 40946,
+      "duration": 240
+    },
+    {
+      "word": "듣는",
+      "confidence": 0.106,
+      "start": 41067,
+      "end": 41347,
+      "duration": 280
+    },
+    {
+      "word": "것을",
+      "confidence": 0.128,
+      "start": 41427,
+      "end": 41767,
+      "duration": 340
+    },
+    {
+      "word": "가장",
+      "confidence": 0.058,
+      "start": 41967,
+      "end": 42327,
+      "duration": 360
+    },
+    {
+      "word": "좋아해요.",
+      "confidence": 0.044,
+      "start": 42528,
+      "end": 43128,
+      "duration": 600
+    },
+    {
+      "word": "그리고",
+      "confidence": 0.118,
+      "start": 44009,
+      "end": 44529,
+      "duration": 520
+    },
+    {
+      "word": "산책할",
+      "confidence": 0.004,
+      "start": 44649,
+      "end": 45209,
+      "duration": 560
+    },
+    {
+      "word": "때",
+      "confidence": 0.068,
+      "start": 45390,
+      "end": 45550,
+      "duration": 160
+    },
+    {
+      "word": "친구하고",
+      "confidence": 0.093,
+      "start": 45830,
+      "end": 46610,
+      "duration": 780
+    },
+    {
+      "word": "전화하는",
+      "confidence": 0.171,
+      "start": 46730,
+      "end": 47231,
+      "duration": 501
+    },
+    {
+      "word": "것도",
+      "confidence": 0.095,
+      "start": 47331,
+      "end": 47671,
+      "duration": 340
+    },
+    {
+      "word": "좋아해요.",
+      "confidence": 0.068,
+      "start": 47791,
+      "end": 48352,
+      "duration": 561
+    },
+    {
+      "word": "가끔",
+      "confidence": 0.024,
+      "start": 49092,
+      "end": 49613,
+      "duration": 521
+    },
+    {
+      "word": "친구하고",
+      "confidence": 0.066,
+      "start": 49833,
+      "end": 50653,
+      "duration": 820
+    },
+    {
+      "word": "저녁을",
+      "confidence": 0.001,
+      "start": 50773,
+      "end": 51294,
+      "duration": 521
+    },
+    {
+      "word": "먹고",
+      "confidence": 0.0,
+      "start": 51414,
+      "end": 51874,
+      "duration": 460
+    },
+    {
+      "word": "산책할",
+      "confidence": 0.055,
+      "start": 52014,
+      "end": 52575,
+      "duration": 561
+    },
+    {
+      "word": "때도",
+      "confidence": 0.106,
+      "start": 52755,
+      "end": 53115,
+      "duration": 360
+    },
+    {
+      "word": "많이",
+      "confidence": 0.166,
+      "start": 53255,
+      "end": 53575,
+      "duration": 320
+    },
+    {
+      "word": "있어요.",
+      "confidence": 0.372,
+      "start": 53615,
+      "end": 54616,
+      "duration": 1001
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.115,
+      "start": 54818,
+      "end": 55378,
+      "duration": 560
+    },
+    {
+      "word": "하고",
+      "confidence": 0.097,
+      "start": 55498,
+      "end": 55919,
+      "duration": 421
+    },
+    {
+      "word": "이야기를",
+      "confidence": 0.158,
+      "start": 56079,
+      "end": 56639,
+      "duration": 560
+    },
+    {
+      "word": "할",
+      "confidence": 0.125,
+      "start": 56759,
+      "end": 56919,
+      "duration": 160
+    },
+    {
+      "word": "수",
+      "confidence": 0.2,
+      "start": 57039,
+      "end": 57139,
+      "duration": 100
+    },
+    {
+      "word": "있어서",
+      "confidence": 0.123,
+      "start": 57179,
+      "end": 57679,
+      "duration": 500
+    },
+    {
+      "word": "정말",
+      "confidence": 0.122,
+      "start": 57919,
+      "end": 58280,
+      "duration": 361
+    },
+    {
+      "word": "좋아요.",
+      "confidence": 0.042,
+      "start": 58380,
+      "end": 59160,
+      "duration": 780
+    },
+    {
+      "word": "가끔",
+      "confidence": 0.08,
+      "start": 59800,
+      "end": 60201,
+      "duration": 401
+    },
+    {
+      "word": "낮에",
+      "confidence": 0.038,
+      "start": 60321,
+      "end": 60661,
+      "duration": 340
+    },
+    {
+      "word": "산책을",
+      "confidence": 0.063,
+      "start": 60761,
+      "end": 61281,
+      "duration": 520
+    },
+    {
+      "word": "하지만",
+      "confidence": 0.112,
+      "start": 61381,
+      "end": 61901,
+      "duration": 520
+    },
+    {
+      "word": "밤에",
+      "confidence": 0.126,
+      "start": 62422,
+      "end": 62722,
+      "duration": 300
+    },
+    {
+      "word": "산책하는",
+      "confidence": 0.112,
+      "start": 62802,
+      "end": 63362,
+      "duration": 560
+    },
+    {
+      "word": "것을",
+      "confidence": 0.15,
+      "start": 63442,
+      "end": 63742,
+      "duration": 300
+    },
+    {
+      "word": "더",
+      "confidence": 0.0,
+      "start": 63762,
+      "end": 63782,
+      "duration": 20
+    },
+    {
+      "word": "좋아해요.",
+      "confidence": 0.049,
+      "start": 64182,
+      "end": 64742,
+      "duration": 560
+    },
+    {
+      "word": "왜냐하면",
+      "confidence": 0.053,
+      "start": 65563,
+      "end": 66263,
+      "duration": 700
+    },
+    {
+      "word": "밤에는",
+      "confidence": 0.088,
+      "start": 66624,
+      "end": 67164,
+      "duration": 540
+    },
+    {
+      "word": "사람이",
+      "confidence": 0.161,
+      "start": 67304,
+      "end": 67744,
+      "duration": 440
+    },
+    {
+      "word": "별로",
+      "confidence": 0.157,
+      "start": 67864,
+      "end": 68224,
+      "duration": 360
+    },
+    {
+      "word": "없고",
+      "confidence": 0.094,
+      "start": 68244,
+      "end": 68624,
+      "duration": 380
+    },
+    {
+      "word": "조용해요.",
+      "confidence": 0.039,
+      "start": 68845,
+      "end": 69505,
+      "duration": 660
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.126,
+      "start": 70405,
+      "end": 70906,
+      "duration": 501
+    },
+    {
+      "word": "가끔",
+      "confidence": 0.064,
+      "start": 71086,
+      "end": 71506,
+      "duration": 420
+    },
+    {
+      "word": "밤에",
+      "confidence": 0.084,
+      "start": 71686,
+      "end": 72066,
+      "duration": 380
+    },
+    {
+      "word": "공원에서",
+      "confidence": 0.065,
+      "start": 72086,
+      "end": 72907,
+      "duration": 821
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.093,
+      "start": 73067,
+      "end": 73647,
+      "duration": 580
+    },
+    {
+      "word": "타요.",
+      "confidence": 0.001,
+      "start": 73747,
+      "end": 74547,
+      "duration": 800
+    },
+    {
+      "word": "한국의",
+      "confidence": 0.075,
+      "start": 74987,
+      "end": 75488,
+      "duration": 501
+    },
+    {
+      "word": "겨울은",
+      "confidence": 0.121,
+      "start": 75608,
+      "end": 76048,
+      "duration": 440
+    },
+    {
+      "word": "많이",
+      "confidence": 0.222,
+      "start": 76168,
+      "end": 76408,
+      "duration": 240
+    },
+    {
+      "word": "추워서",
+      "confidence": 0.077,
+      "start": 76588,
+      "end": 77108,
+      "duration": 520
+    },
+    {
+      "word": "겨울에는",
+      "confidence": 0.077,
+      "start": 77629,
+      "end": 78249,
+      "duration": 620
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.069,
+      "start": 78389,
+      "end": 79149,
+      "duration": 760
+    },
+    {
+      "word": "거의",
+      "confidence": 0.104,
+      "start": 79350,
+      "end": 79710,
+      "duration": 360
+    },
+    {
+      "word": "안",
+      "confidence": 0.0,
+      "start": 79730,
+      "end": 79910,
+      "duration": 180
+    },
+    {
+      "word": "타요.",
+      "confidence": 0.472,
+      "start": 80030,
+      "end": 80350,
+      "duration": 320
+    },
+    {
+      "word": "보통",
+      "confidence": 0.0,
+      "start": 81042,
+      "end": 81582,
+      "duration": 540
+    },
+    {
+      "word": "봄,",
+      "confidence": 0.0,
+      "start": 81823,
+      "end": 82063,
+      "duration": 240
+    },
+    {
+      "word": "여름,",
+      "confidence": 0.0,
+      "start": 82503,
+      "end": 82843,
+      "duration": 340
+    },
+    {
+      "word": "가을에",
+      "confidence": 0.083,
+      "start": 83224,
+      "end": 83704,
+      "duration": 480
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.12,
+      "start": 83984,
+      "end": 84625,
+      "duration": 641
+    },
+    {
+      "word": "자주",
+      "confidence": 0.168,
+      "start": 84765,
+      "end": 85005,
+      "duration": 240
+    },
+    {
+      "word": "타요.",
+      "confidence": 0.0,
+      "start": 85125,
+      "end": 85366,
+      "duration": 241
+    },
+    {
+      "word": "한국의",
+      "confidence": 0.082,
+      "start": 86306,
+      "end": 86767,
+      "duration": 461
+    },
+    {
+      "word": "봄에는",
+      "confidence": 0.074,
+      "start": 86907,
+      "end": 87447,
+      "duration": 540
+    },
+    {
+      "word": "꽃이",
+      "confidence": 0.135,
+      "start": 87728,
+      "end": 88068,
+      "duration": 340
+    },
+    {
+      "word": "많이",
+      "confidence": 0.306,
+      "start": 88148,
+      "end": 88368,
+      "duration": 220
+    },
+    {
+      "word": "피어서",
+      "confidence": 0.095,
+      "start": 88508,
+      "end": 89049,
+      "duration": 541
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.075,
+      "start": 89549,
+      "end": 90110,
+      "duration": 561
+    },
+    {
+      "word": "탈",
+      "confidence": 0.0,
+      "start": 90230,
+      "end": 90350,
+      "duration": 120
+    },
+    {
+      "word": "때",
+      "confidence": 0.167,
+      "start": 90550,
+      "end": 90670,
+      "duration": 120
+    },
+    {
+      "word": "꽃",
+      "confidence": 0.214,
+      "start": 90950,
+      "end": 91010,
+      "duration": 60
+    },
+    {
+      "word": "구경을",
+      "confidence": 0.018,
+      "start": 91290,
+      "end": 91771,
+      "duration": 481
+    },
+    {
+      "word": "할",
+      "confidence": 0.0,
+      "start": 91791,
+      "end": 91811,
+      "duration": 20
+    },
+    {
+      "word": "수",
+      "confidence": 0.484,
+      "start": 91951,
+      "end": 91991,
+      "duration": 40
+    },
+    {
+      "word": "있어요.",
+      "confidence": 0.079,
+      "start": 92031,
+      "end": 92431,
+      "duration": 400
+    },
+    {
+      "word": "이번",
+      "confidence": 0.125,
+      "start": 93392,
+      "end": 93713,
+      "duration": 321
+    },
+    {
+      "word": "봄에",
+      "confidence": 0.055,
+      "start": 93853,
+      "end": 94253,
+      "duration": 400
+    },
+    {
+      "word": "꽃이",
+      "confidence": 0.124,
+      "start": 94493,
+      "end": 94813,
+      "duration": 320
+    },
+    {
+      "word": "정말",
+      "confidence": 0.036,
+      "start": 94913,
+      "end": 95294,
+      "duration": 381
+    },
+    {
+      "word": "많이",
+      "confidence": 0.305,
+      "start": 95374,
+      "end": 95594,
+      "duration": 220
+    },
+    {
+      "word": "피어서",
+      "confidence": 0.049,
+      "start": 95734,
+      "end": 96235,
+      "duration": 501
+    },
+    {
+      "word": "꽃",
+      "confidence": 0.018,
+      "start": 96675,
+      "end": 96715,
+      "duration": 40
+    },
+    {
+      "word": "사진도",
+      "confidence": 0.117,
+      "start": 96875,
+      "end": 97396,
+      "duration": 521
+    },
+    {
+      "word": "많이",
+      "confidence": 0.305,
+      "start": 97496,
+      "end": 97716,
+      "duration": 220
+    },
+    {
+      "word": "찍었어요.",
+      "confidence": 0.041,
+      "start": 97856,
+      "end": 98436,
+      "duration": 580
+    },
+    {
+      "word": "여름에는",
+      "confidence": 0.089,
+      "start": 99277,
+      "end": 100018,
+      "duration": 741
+    },
+    {
+      "word": "낮에",
+      "confidence": 0.075,
+      "start": 100218,
+      "end": 100618,
+      "duration": 400
+    },
+    {
+      "word": "정말",
+      "confidence": 0.052,
+      "start": 100738,
+      "end": 101219,
+      "duration": 481
+    },
+    {
+      "word": "더워서",
+      "confidence": 0.046,
+      "start": 101319,
+      "end": 101899,
+      "duration": 580
+    },
+    {
+      "word": "밤에",
+      "confidence": 0.046,
+      "start": 102300,
+      "end": 102680,
+      "duration": 380
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.102,
+      "start": 102800,
+      "end": 103421,
+      "duration": 621
+    },
+    {
+      "word": "자주",
+      "confidence": 0.21,
+      "start": 103541,
+      "end": 103761,
+      "duration": 220
+    },
+    {
+      "word": "타요.",
+      "confidence": 0.0,
+      "start": 103881,
+      "end": 104101,
+      "duration": 220
+    },
+    {
+      "word": "밤에",
+      "confidence": 0.084,
+      "start": 104962,
+      "end": 105282,
+      "duration": 320
+    },
+    {
+      "word": "바람이",
+      "confidence": 0.154,
+      "start": 105422,
+      "end": 105883,
+      "duration": 461
+    },
+    {
+      "word": "불",
+      "confidence": 0.0,
+      "start": 106023,
+      "end": 106403,
+      "duration": 380
+    },
+    {
+      "word": "때",
+      "confidence": 0.0,
+      "start": 106423,
+      "end": 106443,
+      "duration": 20
+    },
+    {
+      "word": "자전거를",
+      "confidence": 0.03,
+      "start": 106523,
+      "end": 107024,
+      "duration": 501
+    },
+    {
+      "word": "타면",
+      "confidence": 0.024,
+      "start": 107164,
+      "end": 107544,
+      "duration": 380
+    },
+    {
+      "word": "기분이",
+      "confidence": 0.149,
+      "start": 107824,
+      "end": 108225,
+      "duration": 401
+    },
+    {
+      "word": "좋아요.",
+      "confidence": 0.103,
+      "start": 108345,
+      "end": 108785,
+      "duration": 440
+    },
+    {
+      "word": "가을에는",
+      "confidence": 0.083,
+      "start": 109662,
+      "end": 110503,
+      "duration": 841
+    },
+    {
+      "word": "단풍이",
+      "confidence": 0.079,
+      "start": 110643,
+      "end": 111223,
+      "duration": 580
+    },
+    {
+      "word": "들어서",
+      "confidence": 0.116,
+      "start": 111303,
+      "end": 111804,
+      "duration": 501
+    },
+    {
+      "word": "나무의",
+      "confidence": 0.162,
+      "start": 112104,
+      "end": 112504,
+      "duration": 400
+    },
+    {
+      "word": "색이",
+      "confidence": 0.0,
+      "start": 112644,
+      "end": 113025,
+      "duration": 381
+    },
+    {
+      "word": "정말",
+      "confidence": 0.05,
+      "start": 113145,
+      "end": 113505,
+      "duration": 360
+    },
+    {
+      "word": "예쁘고",
+      "confidence": 0.046,
+      "start": 113585,
+      "end": 114166,
+      "duration": 581
+    },
+    {
+      "word": "날씨가",
+      "confidence": 0.036,
+      "start": 114626,
+      "end": 115166,
+      "duration": 540
+    },
+    {
+      "word": "시원해요.",
+      "confidence": 0.029,
+      "start": 115307,
+      "end": 115827,
+      "duration": 520
+    },
+    {
+      "word": "봄에는",
+      "confidence": 0.063,
+      "start": 116688,
+      "end": 117168,
+      "duration": 480
+    },
+    {
+      "word": "꽃",
+      "confidence": 0.013,
+      "start": 117328,
+      "end": 117408,
+      "duration": 80
+    },
+    {
+      "word": "구경을",
+      "confidence": 0.008,
+      "start": 117528,
+      "end": 117949,
+      "duration": 421
+    },
+    {
+      "word": "하고",
+      "confidence": 0.131,
+      "start": 118029,
+      "end": 118349,
+      "duration": 320
+    },
+    {
+      "word": "가을에는",
+      "confidence": 0.108,
+      "start": 118709,
+      "end": 119330,
+      "duration": 621
+    },
+    {
+      "word": "단풍",
+      "confidence": 0.01,
+      "start": 119470,
+      "end": 119810,
+      "duration": 340
+    },
+    {
+      "word": "구경을",
+      "confidence": 0.054,
+      "start": 119930,
+      "end": 120511,
+      "duration": 581
+    },
+    {
+      "word": "할",
+      "confidence": 0.0,
+      "start": 120531,
+      "end": 120551,
+      "duration": 20
+    },
+    {
+      "word": "수",
+      "confidence": 0.482,
+      "start": 120691,
+      "end": 120731,
+      "duration": 40
+    },
+    {
+      "word": "있어요.",
+      "confidence": 0.07,
+      "start": 120771,
+      "end": 121632,
+      "duration": 861
+    },
+    {
+      "word": "그리고",
+      "confidence": 0.187,
+      "start": 122272,
+      "end": 122613,
+      "duration": 341
+    },
+    {
+      "word": "하늘도",
+      "confidence": 0.117,
+      "start": 122673,
+      "end": 123093,
+      "duration": 420
+    },
+    {
+      "word": "예뻐요.",
+      "confidence": 0.013,
+      "start": 123193,
+      "end": 123693,
+      "duration": 500
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.134,
+      "start": 124454,
+      "end": 124934,
+      "duration": 480
+    },
+    {
+      "word": "가을에",
+      "confidence": 0.08,
+      "start": 125275,
+      "end": 125735,
+      "duration": 460
+    },
+    {
+      "word": "공원에서",
+      "confidence": 0.122,
+      "start": 125895,
+      "end": 126556,
+      "duration": 661
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.0,
+      "start": 126576,
+      "end": 127136,
+      "duration": 560
+    },
+    {
+      "word": "자주",
+      "confidence": 0.045,
+      "start": 127276,
+      "end": 127577,
+      "duration": 301
+    },
+    {
+      "word": "해요.",
+      "confidence": 0.0,
+      "start": 127597,
+      "end": 127877,
+      "duration": 280
+    },
+    {
+      "word": "여러분의",
+      "confidence": 0.161,
+      "start": 129058,
+      "end": 129598,
+      "duration": 540
+    },
+    {
+      "word": "나라에서",
+      "confidence": 0.115,
+      "start": 129698,
+      "end": 130439,
+      "duration": 741
+    },
+    {
+      "word": "유행하는",
+      "confidence": 0.16,
+      "start": 130639,
+      "end": 131179,
+      "duration": 540
+    },
+    {
+      "word": "취미가",
+      "confidence": 0.13,
+      "start": 131320,
+      "end": 131700,
+      "duration": 380
+    },
+    {
+      "word": "있어요?",
+      "confidence": 0.065,
+      "start": 131760,
+      "end": 132220,
+      "duration": 460
+    },
+    {
+      "word": "요즘",
+      "confidence": 0.026,
+      "start": 133241,
+      "end": 133682,
+      "duration": 441
+    },
+    {
+      "word": "한국",
+      "confidence": 0.138,
+      "start": 133822,
+      "end": 134122,
+      "duration": 300
+    },
+    {
+      "word": "사람들이",
+      "confidence": 0.136,
+      "start": 134262,
+      "end": 134883,
+      "duration": 621
+    },
+    {
+      "word": "많이",
+      "confidence": 0.217,
+      "start": 135003,
+      "end": 135263,
+      "duration": 260
+    },
+    {
+      "word": "하는",
+      "confidence": 0.202,
+      "start": 135343,
+      "end": 135583,
+      "duration": 240
+    },
+    {
+      "word": "취미",
+      "confidence": 0.005,
+      "start": 135743,
+      "end": 136023,
+      "duration": 280
+    },
+    {
+      "word": "활동은",
+      "confidence": 0.0,
+      "start": 136104,
+      "end": 136704,
+      "duration": 600
+    },
+    {
+      "word": "운동이에요.",
+      "confidence": 0.267,
+      "start": 137044,
+      "end": 137945,
+      "duration": 901
+    },
+    {
+      "word": "2년",
+      "confidence": 0.0,
+      "start": 138704,
+      "end": 139144,
+      "duration": 440
+    },
+    {
+      "word": "동안",
+      "confidence": 0.118,
+      "start": 139305,
+      "end": 139645,
+      "duration": 340
+    },
+    {
+      "word": "코로나",
+      "confidence": 0.119,
+      "start": 139805,
+      "end": 140165,
+      "duration": 360
+    },
+    {
+      "word": "때문에",
+      "confidence": 0.125,
+      "start": 140286,
+      "end": 140766,
+      "duration": 480
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.063,
+      "start": 140906,
+      "end": 141327,
+      "duration": 421
+    },
+    {
+      "word": "잘",
+      "confidence": 0.0,
+      "start": 141427,
+      "end": 141547,
+      "duration": 120
+    },
+    {
+      "word": "못했어요.",
+      "confidence": 0.055,
+      "start": 141667,
+      "end": 142328,
+      "duration": 661
+    },
+    {
+      "word": "근데",
+      "confidence": 0.045,
+      "start": 143109,
+      "end": 143589,
+      "duration": 480
+    },
+    {
+      "word": "요즘",
+      "confidence": 0.132,
+      "start": 143829,
+      "end": 144150,
+      "duration": 321
+    },
+    {
+      "word": "한국에서",
+      "confidence": 0.118,
+      "start": 144230,
+      "end": 144930,
+      "duration": 700
+    },
+    {
+      "word": "코로나가",
+      "confidence": 0.056,
+      "start": 144950,
+      "end": 145851,
+      "duration": 901
+    },
+    {
+      "word": "거의",
+      "confidence": 0.312,
+      "start": 146011,
+      "end": 146212,
+      "duration": 201
+    },
+    {
+      "word": "끝났어요.",
+      "confidence": 0.071,
+      "start": 146372,
+      "end": 146972,
+      "duration": 600
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.156,
+      "start": 147613,
+      "end": 148054,
+      "duration": 441
+    },
+    {
+      "word": "사람들이",
+      "confidence": 0.098,
+      "start": 148454,
+      "end": 149115,
+      "duration": 661
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.136,
+      "start": 149275,
+      "end": 149755,
+      "duration": 480
+    },
+    {
+      "word": "많이",
+      "confidence": 0.175,
+      "start": 149855,
+      "end": 150136,
+      "duration": 281
+    },
+    {
+      "word": "하고",
+      "confidence": 0.218,
+      "start": 150196,
+      "end": 150436,
+      "duration": 240
+    },
+    {
+      "word": "있어요.",
+      "confidence": 0.087,
+      "start": 150476,
+      "end": 150876,
+      "duration": 400
+    },
+    {
+      "word": "달리기,",
+      "confidence": 0.033,
+      "start": 151717,
+      "end": 152298,
+      "duration": 581
+    },
+    {
+      "word": "필라테스,",
+      "confidence": 0.03,
+      "start": 152698,
+      "end": 153419,
+      "duration": 721
+    },
+    {
+      "word": "요가,",
+      "confidence": 0.028,
+      "start": 153859,
+      "end": 154220,
+      "duration": 361
+    },
+    {
+      "word": "암벽등반,",
+      "confidence": 0.0,
+      "start": 154560,
+      "end": 155862,
+      "duration": 1302
+    },
+    {
+      "word": "등산등을",
+      "confidence": 0.009,
+      "start": 155882,
+      "end": 156482,
+      "duration": 600
+    },
+    {
+      "word": "많이",
+      "confidence": 0.172,
+      "start": 156602,
+      "end": 156883,
+      "duration": 281
+    },
+    {
+      "word": "해요.",
+      "confidence": 0.496,
+      "start": 156963,
+      "end": 157283,
+      "duration": 320
+    },
+    {
+      "word": "저도",
+      "confidence": 0.056,
+      "start": 157823,
+      "end": 158343,
+      "duration": 520
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.093,
+      "start": 158443,
+      "end": 159004,
+      "duration": 561
+    },
+    {
+      "word": "일주일에",
+      "confidence": 0.012,
+      "start": 159144,
+      "end": 159744,
+      "duration": 600
+    },
+    {
+      "word": "두",
+      "confidence": 0.0,
+      "start": 159764,
+      "end": 159784,
+      "duration": 20
+    },
+    {
+      "word": "번",
+      "confidence": 0.0,
+      "start": 160084,
+      "end": 160204,
+      "duration": 120
+    },
+    {
+      "word": "하고",
+      "confidence": 0.296,
+      "start": 160284,
+      "end": 160544,
+      "duration": 260
+    },
+    {
+      "word": "있어요.",
+      "confidence": 0.034,
+      "start": 160605,
+      "end": 161585,
+      "duration": 980
+    },
+    {
+      "word": "보통",
+      "confidence": 0.0,
+      "start": 161745,
+      "end": 162205,
+      "duration": 460
+    },
+    {
+      "word": "월요일,",
+      "confidence": 0.004,
+      "start": 162385,
+      "end": 162826,
+      "duration": 441
+    },
+    {
+      "word": "금요일에",
+      "confidence": 0.066,
+      "start": 163066,
+      "end": 163666,
+      "duration": 600
+    },
+    {
+      "word": "필라테스를",
+      "confidence": 0.097,
+      "start": 163826,
+      "end": 164547,
+      "duration": 721
+    },
+    {
+      "word": "하는데",
+      "confidence": 0.082,
+      "start": 164627,
+      "end": 165107,
+      "duration": 480
+    },
+    {
+      "word": "처음에는",
+      "confidence": 0.14,
+      "start": 165747,
+      "end": 166348,
+      "duration": 601
+    },
+    {
+      "word": "어려웠지만",
+      "confidence": 0.043,
+      "start": 166408,
+      "end": 167308,
+      "duration": 900
+    },
+    {
+      "word": "요즘은",
+      "confidence": 0.069,
+      "start": 167608,
+      "end": 168049,
+      "duration": 441
+    },
+    {
+      "word": "재미있어요.",
+      "confidence": 0.064,
+      "start": 168189,
+      "end": 169689,
+      "duration": 1500
+    },
+    {
+      "word": "필라테스를",
+      "confidence": 0.028,
+      "start": 170050,
+      "end": 170810,
+      "duration": 760
+    },
+    {
+      "word": "할",
+      "confidence": 0.199,
+      "start": 170910,
+      "end": 171010,
+      "duration": 100
+    },
+    {
+      "word": "때는",
+      "confidence": 0.114,
+      "start": 171150,
+      "end": 171390,
+      "duration": 240
+    },
+    {
+      "word": "힘들지만",
+      "confidence": 0.101,
+      "start": 171450,
+      "end": 172171,
+      "duration": 721
+    },
+    {
+      "word": "끝난",
+      "confidence": 0.0,
+      "start": 172471,
+      "end": 172831,
+      "duration": 360
+    },
+    {
+      "word": "후에는",
+      "confidence": 0.096,
+      "start": 172851,
+      "end": 173171,
+      "duration": 320
+    },
+    {
+      "word": "기분이",
+      "confidence": 0.01,
+      "start": 173351,
+      "end": 173692,
+      "duration": 341
+    },
+    {
+      "word": "좋아요.",
+      "confidence": 0.017,
+      "start": 173812,
+      "end": 175493,
+      "duration": 1681
+    },
+    {
+      "word": "저는",
+      "confidence": 0.133,
+      "start": 175693,
+      "end": 176013,
+      "duration": 320
+    },
+    {
+      "word": "3년",
+      "confidence": 0.166,
+      "start": 176333,
+      "end": 176453,
+      "duration": 120
+    },
+    {
+      "word": "전에",
+      "confidence": 0.104,
+      "start": 176553,
+      "end": 176933,
+      "duration": 380
+    },
+    {
+      "word": "요가도",
+      "confidence": 0.012,
+      "start": 177093,
+      "end": 177514,
+      "duration": 421
+    },
+    {
+      "word": "했었는데",
+      "confidence": 0.06,
+      "start": 177574,
+      "end": 178294,
+      "duration": 720
+    },
+    {
+      "word": "정말",
+      "confidence": 0.053,
+      "start": 178634,
+      "end": 179034,
+      "duration": 400
+    },
+    {
+      "word": "재미있었어요.",
+      "confidence": 0.067,
+      "start": 179155,
+      "end": 180515,
+      "duration": 1360
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.151,
+      "start": 180996,
+      "end": 181416,
+      "duration": 420
+    },
+    {
+      "word": "제가",
+      "confidence": 0.146,
+      "start": 181556,
+      "end": 181876,
+      "duration": 320
+    },
+    {
+      "word": "가장",
+      "confidence": 0.075,
+      "start": 181996,
+      "end": 182276,
+      "duration": 280
+    },
+    {
+      "word": "좋아하는",
+      "confidence": 0.0,
+      "start": 182416,
+      "end": 182797,
+      "duration": 381
+    },
+    {
+      "word": "운동은",
+      "confidence": 0.0,
+      "start": 182917,
+      "end": 183477,
+      "duration": 560
+    },
+    {
+      "word": "요가와",
+      "confidence": 0.041,
+      "start": 183877,
+      "end": 184357,
+      "duration": 480
+    },
+    {
+      "word": "필라테스예요.",
+      "confidence": 0.19,
+      "start": 184497,
+      "end": 185498,
+      "duration": 1001
+    },
+    {
+      "word": "저는",
+      "confidence": 0.056,
+      "start": 186697,
+      "end": 187198,
+      "duration": 501
+    },
+    {
+      "word": "친구와",
+      "confidence": 0.076,
+      "start": 187358,
+      "end": 187839,
+      "duration": 481
+    },
+    {
+      "word": "등산을",
+      "confidence": 0.122,
+      "start": 187939,
+      "end": 188440,
+      "duration": 501
+    },
+    {
+      "word": "한번",
+      "confidence": 0.056,
+      "start": 188500,
+      "end": 188781,
+      "duration": 281
+    },
+    {
+      "word": "해봤지만",
+      "confidence": 0.09,
+      "start": 188861,
+      "end": 189582,
+      "duration": 721
+    },
+    {
+      "word": "너무",
+      "confidence": 0.116,
+      "start": 190144,
+      "end": 190484,
+      "duration": 340
+    },
+    {
+      "word": "힘들었어요.",
+      "confidence": 0.086,
+      "start": 190544,
+      "end": 191386,
+      "duration": 842
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.181,
+      "start": 192147,
+      "end": 192508,
+      "duration": 361
+    },
+    {
+      "word": "저는",
+      "confidence": 0.116,
+      "start": 192588,
+      "end": 192949,
+      "duration": 361
+    },
+    {
+      "word": "등산하는",
+      "confidence": 0.111,
+      "start": 193089,
+      "end": 193710,
+      "duration": 621
+    },
+    {
+      "word": "것을",
+      "confidence": 0.1,
+      "start": 193790,
+      "end": 194191,
+      "duration": 401
+    },
+    {
+      "word": "좋아하지",
+      "confidence": 0.087,
+      "start": 194372,
+      "end": 194913,
+      "duration": 541
+    },
+    {
+      "word": "않아요.",
+      "confidence": 0.382,
+      "start": 194973,
+      "end": 195674,
+      "duration": 701
+    },
+    {
+      "word": "산",
+      "confidence": 0.0,
+      "start": 196197,
+      "end": 196517,
+      "duration": 320
+    },
+    {
+      "word": "정상에서",
+      "confidence": 0.047,
+      "start": 196637,
+      "end": 197358,
+      "duration": 721
+    },
+    {
+      "word": "보는",
+      "confidence": 0.005,
+      "start": 197518,
+      "end": 197739,
+      "duration": 221
+    },
+    {
+      "word": "경치가",
+      "confidence": 0.158,
+      "start": 197879,
+      "end": 198319,
+      "duration": 440
+    },
+    {
+      "word": "예뻤지만",
+      "confidence": 0.031,
+      "start": 198419,
+      "end": 199240,
+      "duration": 821
+    },
+    {
+      "word": "너무",
+      "confidence": 0.005,
+      "start": 199700,
+      "end": 200001,
+      "duration": 301
+    },
+    {
+      "word": "힘들어서",
+      "confidence": 0.086,
+      "start": 200101,
+      "end": 200882,
+      "duration": 781
+    },
+    {
+      "word": "다시",
+      "confidence": 0.0,
+      "start": 201102,
+      "end": 201442,
+      "duration": 340
+    },
+    {
+      "word": "안",
+      "confidence": 0.0,
+      "start": 201542,
+      "end": 201562,
+      "duration": 20
+    },
+    {
+      "word": "갔어요.",
+      "confidence": 0.341,
+      "start": 201782,
+      "end": 202163,
+      "duration": 381
+    },
+    {
+      "word": "그리고",
+      "confidence": 0.164,
+      "start": 203164,
+      "end": 203544,
+      "duration": 380
+    },
+    {
+      "word": "달리기를",
+      "confidence": 0.136,
+      "start": 203644,
+      "end": 204285,
+      "duration": 641
+    },
+    {
+      "word": "해봤지만",
+      "confidence": 0.088,
+      "start": 204385,
+      "end": 205126,
+      "duration": 741
+    },
+    {
+      "word": "재미없었어요.",
+      "confidence": 0.025,
+      "start": 205386,
+      "end": 206427,
+      "duration": 1041
+    },
+    {
+      "word": "발목하고",
+      "confidence": 0.066,
+      "start": 207368,
+      "end": 208109,
+      "duration": 741
+    },
+    {
+      "word": "무릎이",
+      "confidence": 0.0,
+      "start": 208209,
+      "end": 208709,
+      "duration": 500
+    },
+    {
+      "word": "너무",
+      "confidence": 0.0,
+      "start": 208829,
+      "end": 208929,
+      "duration": 100
+    },
+    {
+      "word": "아파서",
+      "confidence": 0.041,
+      "start": 209070,
+      "end": 209690,
+      "duration": 620
+    },
+    {
+      "word": "잘",
+      "confidence": 0.124,
+      "start": 210010,
+      "end": 210171,
+      "duration": 161
+    },
+    {
+      "word": "못",
+      "confidence": 0.013,
+      "start": 210251,
+      "end": 210311,
+      "duration": 60
+    },
+    {
+      "word": "뛰었어요.",
+      "confidence": 0.052,
+      "start": 210511,
+      "end": 211071,
+      "duration": 560
+    },
+    {
+      "word": "그래서",
+      "confidence": 0.083,
+      "start": 212072,
+      "end": 212573,
+      "duration": 501
+    },
+    {
+      "word": "제가",
+      "confidence": 0.126,
+      "start": 212853,
+      "end": 213174,
+      "duration": 321
+    },
+    {
+      "word": "안",
+      "confidence": 0.082,
+      "start": 213314,
+      "end": 213454,
+      "duration": 140
+    },
+    {
+      "word": "좋아하는",
+      "confidence": 0.037,
+      "start": 213614,
+      "end": 214215,
+      "duration": 601
+    },
+    {
+      "word": "운동은",
+      "confidence": 0.0,
+      "start": 214415,
+      "end": 214755,
+      "duration": 340
+    },
+    {
+      "word": "등산과",
+      "confidence": 0.0,
+      "start": 215135,
+      "end": 215816,
+      "duration": 681
+    },
+    {
+      "word": "달리기예요.",
+      "confidence": 0.064,
+      "start": 215916,
+      "end": 216717,
+      "duration": 801
+    },
+    {
+      "word": "여러분은",
+      "confidence": 0.056,
+      "start": 217713,
+      "end": 218554,
+      "duration": 841
+    },
+    {
+      "word": "어떤",
+      "confidence": 0.122,
+      "start": 218794,
+      "end": 219174,
+      "duration": 380
+    },
+    {
+      "word": "취미가",
+      "confidence": 0.111,
+      "start": 219314,
+      "end": 219694,
+      "duration": 380
+    },
+    {
+      "word": "있어요?",
+      "confidence": 0.063,
+      "start": 219734,
+      "end": 220255,
+      "duration": 521
+    },
+    {
+      "word": "요즘",
+      "confidence": 0.064,
+      "start": 220995,
+      "end": 221435,
+      "duration": 440
+    },
+    {
+      "word": "어떤",
+      "confidence": 0.138,
+      "start": 221615,
+      "end": 221976,
+      "duration": 361
+    },
+    {
+      "word": "운동을",
+      "confidence": 0.1,
+      "start": 222036,
+      "end": 222516,
+      "duration": 480
+    },
+    {
+      "word": "하고",
+      "confidence": 0.288,
+      "start": 222616,
+      "end": 222856,
+      "duration": 240
+    },
+    {
+      "word": "있어요?",
+      "confidence": 0.065,
+      "start": 222916,
+      "end": 223437,
+      "duration": 521
+    },
+    {
+      "word": "그리고",
+      "confidence": 0.14,
+      "start": 224337,
+      "end": 224777,
+      "duration": 440
+    },
+    {
+      "word": "여러분이",
+      "confidence": 0.095,
+      "start": 224877,
+      "end": 225418,
+      "duration": 541
+    },
+    {
+      "word": "좋아하는",
+      "confidence": 0.112,
+      "start": 225518,
+      "end": 226118,
+      "duration": 600
+    },
+    {
+      "word": "운동과",
+      "confidence": 0.0,
+      "start": 226358,
+      "end": 226699,
+      "duration": 341
+    },
+    {
+      "word": "싫어하는",
+      "confidence": 0.058,
+      "start": 226939,
+      "end": 227419,
+      "duration": 480
+    },
+    {
+      "word": "운동은",
+      "confidence": 0.155,
+      "start": 227499,
+      "end": 227839,
+      "duration": 340
+    },
+    {
+      "word": "뭐예요?",
+      "confidence": 0.038,
+      "start": 228039,
+      "end": 228440,
+      "duration": 401
+    },
+    {
+      "word": "댓글로",
+      "confidence": 0.081,
+      "start": 229080,
+      "end": 229480,
+      "duration": 400
+    },
+    {
+      "word": "남겨주세요!",
+      "confidence": 0.216,
+      "start": 229520,
+      "end": 230521,
+      "duration": 1001
+    }
+  ],
+  "full_text": "안녕하세요. 오늘은 취미에 대해서 이야기할 거예요. 취미는 내가 좋아하는 거예요. 예를 들면, 저는 쉴 때 게임을 해요. 게임하는 것을 좋아해요. 그리고 재미있어요. 그러면 게임이 제 취미예요. 여러분은 취미가 있어요? 여러분의 취미는 뭐예요? 제 취미는 산책하는 거예요. 날씨가 좋을 때 공원에 가서 산책을 해요. 산책을 할 때 노래 듣는 것을 가장 좋아해요. 그리고 산책할 때 친구하고 전화하는 것도 좋아해요. 가끔 친구하고 저녁을 먹고 산책할 때도 많이 있어요. 운동을 하고 이야기를 할 수 있어서 정말 좋아요. 가끔 낮에 산책을 하지만 밤에 산책하는 것을 더 좋아해요. 왜냐하면 밤에는 사람이 별로 없고 조용해요. 그래서 가끔 밤에 공원에서 자전거를 타요. 한국의 겨울은 많이 추워서 겨울에는 자전거를 거의 안 타요. 보통 봄, 여름, 가을에 자전거를 자주 타요. 한국의 봄에는 꽃이 많이 피어서 자전거를 탈 때 꽃 구경을 할 수 있어요. 이번 봄에 꽃이 정말 많이 피어서 꽃 사진도 많이 찍었어요. 여름에는 낮에 정말 더워서 밤에 자전거를 자주 타요. 밤에 바람이 불 때 자전거를 타면 기분이 좋아요. 가을에는 단풍이 들어서 나무의 색이 정말 예쁘고 날씨가 시원해요. 봄에는 꽃 구경을 하고 가을에는 단풍 구경을 할 수 있어요. 그리고 하늘도 예뻐요. 그래서 가을에 공원에서 운동을 자주 해요. 여러분의 나라에서 유행하는 취미가 있어요? 요즘 한국 사람들이 많이 하는 취미 활동은 운동이에요. 2년 동안 코로나 때문에 운동을 잘 못했어요. 근데 요즘 한국에서 코로나가 거의 끝났어요. 그래서 사람들이 운동을 많이 하고 있어요. 달리기, 필라테스, 요가, 암벽등반, 등산등을 많이 해요. 저도 운동을 일주일에 두 번 하고 있어요. 보통 월요일, 금요일에 필라테스를 하는데 처음에는 어려웠지만 요즘은 재미있어요. 필라테스를 할 때는 힘들지만 끝난 후에는 기분이 좋아요. 저는 3년 전에 요가도 했었는데 정말 재미있었어요. 그래서 제가 가장 좋아하는 운동은 요가와 필라테스예요. 저는 친구와 등산을 한번 해봤지만 너무 힘들었어요. 그래서 저는 등산하는 것을 좋아하지 않아요. 산 정상에서 보는 경치가 예뻤지만 너무 힘들어서 다시 안 갔어요. 그리고 달리기를 해봤지만 재미없었어요. 발목하고 무릎이 너무 아파서 잘 못 뛰었어요. 그래서 제가 안 좋아하는 운동은 등산과 달리기예요. 여러분은 어떤 취미가 있어요? 요즘 어떤 운동을 하고 있어요? 그리고 여러분이 좋아하는 운동과 싫어하는 운동은 뭐예요? 댓글로 남겨주세요!",
+  "language": "unknown"
+}

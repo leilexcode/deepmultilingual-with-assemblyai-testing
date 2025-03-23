@@ -1,0 +1,432 @@
+{
+  "status": "success",
+  "processing_time": 17.447953939437866,
+  "total_duration": 30,
+  "word_count": 60,
+  "average_confidence": 0.9113563333333333,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "Despite",
+      "confidence": 0.99981,
+      "start": 880,
+      "end": 1280,
+      "duration": 400
+    },
+    {
+      "word": "centuries",
+      "confidence": 0.65133,
+      "start": 1360,
+      "end": 1944,
+      "duration": 584
+    },
+    {
+      "word": "of",
+      "confidence": 0.99969,
+      "start": 1992,
+      "end": 2200,
+      "duration": 208
+    },
+    {
+      "word": "maritime",
+      "confidence": 0.53076,
+      "start": 2240,
+      "end": 2792,
+      "duration": 552
+    },
+    {
+      "word": "exploration,",
+      "confidence": 0.99972,
+      "start": 2856,
+      "end": 3800,
+      "duration": 944
+    },
+    {
+      "word": "we",
+      "confidence": 0.99984,
+      "start": 3960,
+      "end": 4232,
+      "duration": 272
+    },
+    {
+      "word": "have",
+      "confidence": 0.99052,
+      "start": 4256,
+      "end": 4440,
+      "duration": 184
+    },
+    {
+      "word": "mapped",
+      "confidence": 0.99771,
+      "start": 4480,
+      "end": 4792,
+      "duration": 312
+    },
+    {
+      "word": "less",
+      "confidence": 0.99953,
+      "start": 4856,
+      "end": 5080,
+      "duration": 224
+    },
+    {
+      "word": "than",
+      "confidence": 0.99871,
+      "start": 5120,
+      "end": 5320,
+      "duration": 200
+    },
+    {
+      "word": "20%",
+      "confidence": 0.99856,
+      "start": 5360,
+      "end": 5928,
+      "duration": 568
+    },
+    {
+      "word": "of",
+      "confidence": 0.99939,
+      "start": 5984,
+      "end": 6152,
+      "duration": 168
+    },
+    {
+      "word": "our",
+      "confidence": 0.99869,
+      "start": 6176,
+      "end": 6360,
+      "duration": 184
+    },
+    {
+      "word": "ocean",
+      "confidence": 0.99933,
+      "start": 6400,
+      "end": 6744,
+      "duration": 344
+    },
+    {
+      "word": "floors",
+      "confidence": 0.95612,
+      "start": 6792,
+      "end": 7176,
+      "duration": 384
+    },
+    {
+      "word": "in",
+      "confidence": 0.99951,
+      "start": 7208,
+      "end": 7400,
+      "duration": 192
+    },
+    {
+      "word": "detail,",
+      "confidence": 0.99952,
+      "start": 7440,
+      "end": 8072,
+      "duration": 632
+    },
+    {
+      "word": "leaving",
+      "confidence": 0.53093,
+      "start": 8256,
+      "end": 8664,
+      "duration": 408
+    },
+    {
+      "word": "more",
+      "confidence": 0.99963,
+      "start": 8712,
+      "end": 8872,
+      "duration": 160
+    },
+    {
+      "word": "than",
+      "confidence": 0.99894,
+      "start": 8896,
+      "end": 9080,
+      "duration": 184
+    },
+    {
+      "word": "80%",
+      "confidence": 0.99896,
+      "start": 9120,
+      "end": 9736,
+      "duration": 616
+    },
+    {
+      "word": "of",
+      "confidence": 0.99951,
+      "start": 9808,
+      "end": 9944,
+      "duration": 136
+    },
+    {
+      "word": "the",
+      "confidence": 0.9991,
+      "start": 9952,
+      "end": 10120,
+      "duration": 168
+    },
+    {
+      "word": "ocean",
+      "confidence": 0.99955,
+      "start": 10160,
+      "end": 10552,
+      "duration": 392
+    },
+    {
+      "word": "largely",
+      "confidence": 0.99976,
+      "start": 10616,
+      "end": 11064,
+      "duration": 448
+    },
+    {
+      "word": "unexplored.",
+      "confidence": 0.83516,
+      "start": 11112,
+      "end": 12120,
+      "duration": 1008
+    },
+    {
+      "word": "The",
+      "confidence": 0.99961,
+      "start": 12280,
+      "end": 12552,
+      "duration": 272
+    },
+    {
+      "word": "deepest",
+      "confidence": 0.99965,
+      "start": 12576,
+      "end": 13032,
+      "duration": 456
+    },
+    {
+      "word": "point,",
+      "confidence": 0.99969,
+      "start": 13096,
+      "end": 13368,
+      "duration": 272
+    },
+    {
+      "word": "the",
+      "confidence": 0.99765,
+      "start": 13424,
+      "end": 13592,
+      "duration": 168
+    },
+    {
+      "word": "Challenger",
+      "confidence": 0.77659,
+      "start": 13616,
+      "end": 14184,
+      "duration": 568
+    },
+    {
+      "word": "deep",
+      "confidence": 0.99108,
+      "start": 14232,
+      "end": 14504,
+      "duration": 272
+    },
+    {
+      "word": "in",
+      "confidence": 0.99922,
+      "start": 14552,
+      "end": 14664,
+      "duration": 112
+    },
+    {
+      "word": "the",
+      "confidence": 0.99812,
+      "start": 14672,
+      "end": 14792,
+      "duration": 120
+    },
+    {
+      "word": "Mariana",
+      "confidence": 0.9802,
+      "start": 14816,
+      "end": 15368,
+      "duration": 552
+    },
+    {
+      "word": "trench,",
+      "confidence": 0.92318,
+      "start": 15384,
+      "end": 15944,
+      "duration": 560
+    },
+    {
+      "word": "plunges",
+      "confidence": 0.87078,
+      "start": 16072,
+      "end": 16632,
+      "duration": 560
+    },
+    {
+      "word": "nearly",
+      "confidence": 0.99887,
+      "start": 16696,
+      "end": 17064,
+      "duration": 368
+    },
+    {
+      "word": "11",
+      "confidence": 0.99971,
+      "start": 17112,
+      "end": 17416,
+      "duration": 304
+    },
+    {
+      "word": "kilometers",
+      "confidence": 0.51709,
+      "start": 17488,
+      "end": 18072,
+      "duration": 584
+    },
+    {
+      "word": "below",
+      "confidence": 0.99982,
+      "start": 18136,
+      "end": 18360,
+      "duration": 224
+    },
+    {
+      "word": "sea",
+      "confidence": 0.65096,
+      "start": 18400,
+      "end": 18664,
+      "duration": 264
+    },
+    {
+      "word": "level,",
+      "confidence": 0.99913,
+      "start": 18712,
+      "end": 19256,
+      "duration": 544
+    },
+    {
+      "word": "deeper",
+      "confidence": 0.75462,
+      "start": 19408,
+      "end": 19896,
+      "duration": 488
+    },
+    {
+      "word": "than",
+      "confidence": 0.99923,
+      "start": 19928,
+      "end": 20168,
+      "duration": 240
+    },
+    {
+      "word": "Mount",
+      "confidence": 0.99155,
+      "start": 20224,
+      "end": 20456,
+      "duration": 232
+    },
+    {
+      "word": "Everest.",
+      "confidence": 0.59246,
+      "start": 20488,
+      "end": 21064,
+      "duration": 576
+    },
+    {
+      "word": "Astol",
+      "confidence": 0.44559,
+      "start": 21112,
+      "end": 21980,
+      "duration": 868
+    },
+    {
+      "word": "scientists",
+      "confidence": 0.82123,
+      "start": 22400,
+      "end": 23176,
+      "duration": 776
+    },
+    {
+      "word": "estimate",
+      "confidence": 0.99993,
+      "start": 23288,
+      "end": 24040,
+      "duration": 752
+    },
+    {
+      "word": "that",
+      "confidence": 0.99907,
+      "start": 24200,
+      "end": 24520,
+      "duration": 320
+    },
+    {
+      "word": "millions",
+      "confidence": 0.65098,
+      "start": 24560,
+      "end": 24968,
+      "duration": 408
+    },
+    {
+      "word": "of",
+      "confidence": 0.99982,
+      "start": 24984,
+      "end": 25112,
+      "duration": 128
+    },
+    {
+      "word": "undiscovered",
+      "confidence": 0.9997,
+      "start": 25136,
+      "end": 25784,
+      "duration": 648
+    },
+    {
+      "word": "species",
+      "confidence": 0.75473,
+      "start": 25832,
+      "end": 26552,
+      "duration": 720
+    },
+    {
+      "word": "still",
+      "confidence": 0.99988,
+      "start": 26696,
+      "end": 27000,
+      "duration": 304
+    },
+    {
+      "word": "inhabit",
+      "confidence": 0.63639,
+      "start": 27040,
+      "end": 27544,
+      "duration": 504
+    },
+    {
+      "word": "these",
+      "confidence": 0.85848,
+      "start": 27592,
+      "end": 27800,
+      "duration": 208
+    },
+    {
+      "word": "mysterious",
+      "confidence": 0.99968,
+      "start": 27840,
+      "end": 28344,
+      "duration": 504
+    },
+    {
+      "word": "depths.",
+      "confidence": 0.99641,
+      "start": 28392,
+      "end": 28760,
+      "duration": 368
+    }
+  ],
+  "full_text": "Despite centuries of maritime exploration, we have mapped less than 20% of our ocean floors in detail, leaving more than 80% of the ocean largely unexplored. The deepest point, the Challenger deep in the Mariana trench, plunges nearly 11 kilometers below sea level, deeper than Mount Everest. Astol scientists estimate that millions of undiscovered species still inhabit these mysterious depths.",
+  "language": "unknown"
+}

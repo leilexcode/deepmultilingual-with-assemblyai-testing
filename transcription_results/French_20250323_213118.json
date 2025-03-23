@@ -1,0 +1,3372 @@
+{
+  "status": "success",
+  "processing_time": 21.27521300315857,
+  "total_duration": 195,
+  "word_count": 480,
+  "average_confidence": 0.8139416666666667,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "Bonjour,",
+      "confidence": 0.636,
+      "start": 8,
+      "end": 1469,
+      "duration": 1461
+    },
+    {
+      "word": "le",
+      "confidence": 0.975,
+      "start": 1489,
+      "end": 1549,
+      "duration": 60
+    },
+    {
+      "word": "profil",
+      "confidence": 0.655,
+      "start": 1589,
+      "end": 1869,
+      "duration": 280
+    },
+    {
+      "word": "évitant",
+      "confidence": 0.804,
+      "start": 1929,
+      "end": 2369,
+      "duration": 440
+    },
+    {
+      "word": "ressemble",
+      "confidence": 0.938,
+      "start": 2409,
+      "end": 2809,
+      "duration": 400
+    },
+    {
+      "word": "beaucoup",
+      "confidence": 0.822,
+      "start": 2849,
+      "end": 3129,
+      "duration": 280
+    },
+    {
+      "word": "à",
+      "confidence": 0.97,
+      "start": 3149,
+      "end": 3169,
+      "duration": 20
+    },
+    {
+      "word": "une",
+      "confidence": 0.872,
+      "start": 3229,
+      "end": 3349,
+      "duration": 120
+    },
+    {
+      "word": "personne",
+      "confidence": 0.95,
+      "start": 3369,
+      "end": 3870,
+      "duration": 501
+    },
+    {
+      "word": "hypersensible,",
+      "confidence": 0.859,
+      "start": 3910,
+      "end": 4930,
+      "duration": 1020
+    },
+    {
+      "word": "comment",
+      "confidence": 0.943,
+      "start": 4950,
+      "end": 5230,
+      "duration": 280
+    },
+    {
+      "word": "faire",
+      "confidence": 0.714,
+      "start": 5270,
+      "end": 5410,
+      "duration": 140
+    },
+    {
+      "word": "la",
+      "confidence": 0.958,
+      "start": 5470,
+      "end": 5530,
+      "duration": 60
+    },
+    {
+      "word": "différence",
+      "confidence": 0.937,
+      "start": 5550,
+      "end": 6051,
+      "duration": 501
+    },
+    {
+      "word": "?",
+      "confidence": 0.5,
+      "start": 6061,
+      "end": 6081,
+      "duration": 20
+    },
+    {
+      "word": "Merci.",
+      "confidence": 0.976,
+      "start": 6091,
+      "end": 6991,
+      "duration": 900
+    },
+    {
+      "word": "Alors",
+      "confidence": 0.706,
+      "start": 7031,
+      "end": 7391,
+      "duration": 360
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.652,
+      "start": 7411,
+      "end": 7551,
+      "duration": 140
+    },
+    {
+      "word": "vrai,",
+      "confidence": 0.826,
+      "start": 7571,
+      "end": 8031,
+      "duration": 460
+    },
+    {
+      "word": "pour",
+      "confidence": 0.937,
+      "start": 8051,
+      "end": 8231,
+      "duration": 180
+    },
+    {
+      "word": "rien",
+      "confidence": 0.749,
+      "start": 8251,
+      "end": 8472,
+      "duration": 221
+    },
+    {
+      "word": "vous",
+      "confidence": 0.954,
+      "start": 8512,
+      "end": 8672,
+      "duration": 160
+    },
+    {
+      "word": "cacher,",
+      "confidence": 0.867,
+      "start": 8712,
+      "end": 9872,
+      "duration": 1160
+    },
+    {
+      "word": "j'ai",
+      "confidence": 0.83,
+      "start": 9932,
+      "end": 12173,
+      "duration": 2241
+    },
+    {
+      "word": "retravaillé",
+      "confidence": 0.858,
+      "start": 12213,
+      "end": 12853,
+      "duration": 640
+    },
+    {
+      "word": "cette",
+      "confidence": 0.166,
+      "start": 12873,
+      "end": 13173,
+      "duration": 300
+    },
+    {
+      "word": "vidéo",
+      "confidence": 0.919,
+      "start": 13193,
+      "end": 13754,
+      "duration": 561
+    },
+    {
+      "word": "parce",
+      "confidence": 0.982,
+      "start": 13774,
+      "end": 13954,
+      "duration": 180
+    },
+    {
+      "word": "que",
+      "confidence": 0.951,
+      "start": 13994,
+      "end": 14114,
+      "duration": 120
+    },
+    {
+      "word": "je",
+      "confidence": 0.74,
+      "start": 14154,
+      "end": 14234,
+      "duration": 80
+    },
+    {
+      "word": "voulais",
+      "confidence": 0.836,
+      "start": 14254,
+      "end": 14894,
+      "duration": 640
+    },
+    {
+      "word": "qu'elle",
+      "confidence": 0.829,
+      "start": 14914,
+      "end": 15154,
+      "duration": 240
+    },
+    {
+      "word": "soit",
+      "confidence": 0.915,
+      "start": 15174,
+      "end": 15434,
+      "duration": 260
+    },
+    {
+      "word": "un",
+      "confidence": 0.882,
+      "start": 15474,
+      "end": 15534,
+      "duration": 60
+    },
+    {
+      "word": "peu",
+      "confidence": 0.999,
+      "start": 15574,
+      "end": 15674,
+      "duration": 100
+    },
+    {
+      "word": "plus",
+      "confidence": 0.722,
+      "start": 15715,
+      "end": 15875,
+      "duration": 160
+    },
+    {
+      "word": "complète.",
+      "confidence": 0.857,
+      "start": 15915,
+      "end": 16295,
+      "duration": 380
+    },
+    {
+      "word": "Donc",
+      "confidence": 0.819,
+      "start": 16335,
+      "end": 16495,
+      "duration": 160
+    },
+    {
+      "word": "je",
+      "confidence": 0.78,
+      "start": 16515,
+      "end": 16595,
+      "duration": 80
+    },
+    {
+      "word": "suis",
+      "confidence": 0.885,
+      "start": 16635,
+      "end": 16755,
+      "duration": 120
+    },
+    {
+      "word": "Sophie",
+      "confidence": 0.487,
+      "start": 16795,
+      "end": 17055,
+      "duration": 260
+    },
+    {
+      "word": "Patterson,",
+      "confidence": 0.758,
+      "start": 17095,
+      "end": 17675,
+      "duration": 580
+    },
+    {
+      "word": "je",
+      "confidence": 0.95,
+      "start": 17695,
+      "end": 17835,
+      "duration": 140
+    },
+    {
+      "word": "suis",
+      "confidence": 0.839,
+      "start": 17875,
+      "end": 18756,
+      "duration": 881
+    },
+    {
+      "word": "spécialiste",
+      "confidence": 0.854,
+      "start": 18776,
+      "end": 19316,
+      "duration": 540
+    },
+    {
+      "word": "des",
+      "confidence": 0.94,
+      "start": 19336,
+      "end": 19516,
+      "duration": 180
+    },
+    {
+      "word": "profils",
+      "confidence": 0.693,
+      "start": 19576,
+      "end": 19936,
+      "duration": 360
+    },
+    {
+      "word": "d'attachement,",
+      "confidence": 0.882,
+      "start": 19996,
+      "end": 20496,
+      "duration": 500
+    },
+    {
+      "word": "que",
+      "confidence": 0.913,
+      "start": 20536,
+      "end": 20657,
+      "duration": 121
+    },
+    {
+      "word": "ce",
+      "confidence": 0.902,
+      "start": 20697,
+      "end": 20817,
+      "duration": 120
+    },
+    {
+      "word": "soit",
+      "confidence": 0.923,
+      "start": 20837,
+      "end": 21177,
+      "duration": 340
+    },
+    {
+      "word": "évitant,",
+      "confidence": 0.98,
+      "start": 21237,
+      "end": 22217,
+      "duration": 980
+    },
+    {
+      "word": "anxieux",
+      "confidence": 0.793,
+      "start": 22277,
+      "end": 23118,
+      "duration": 841
+    },
+    {
+      "word": "ou",
+      "confidence": 0.975,
+      "start": 23178,
+      "end": 23318,
+      "duration": 140
+    },
+    {
+      "word": "chaotique",
+      "confidence": 0.822,
+      "start": 23358,
+      "end": 23798,
+      "duration": 440
+    },
+    {
+      "word": "désorganisé,",
+      "confidence": 0.846,
+      "start": 23818,
+      "end": 24638,
+      "duration": 820
+    },
+    {
+      "word": "on",
+      "confidence": 0.731,
+      "start": 24698,
+      "end": 24798,
+      "duration": 100
+    },
+    {
+      "word": "va",
+      "confidence": 0.785,
+      "start": 24838,
+      "end": 25058,
+      "duration": 220
+    },
+    {
+      "word": "dire",
+      "confidence": 0.908,
+      "start": 25098,
+      "end": 25318,
+      "duration": 220
+    },
+    {
+      "word": "que",
+      "confidence": 0.736,
+      "start": 25358,
+      "end": 26219,
+      "duration": 861
+    },
+    {
+      "word": "globalement",
+      "confidence": 0.884,
+      "start": 26239,
+      "end": 26759,
+      "duration": 520
+    },
+    {
+      "word": "ce",
+      "confidence": 0.758,
+      "start": 26799,
+      "end": 26899,
+      "duration": 100
+    },
+    {
+      "word": "sont",
+      "confidence": 0.895,
+      "start": 26919,
+      "end": 27219,
+      "duration": 300
+    },
+    {
+      "word": "des",
+      "confidence": 0.79,
+      "start": 27239,
+      "end": 27359,
+      "duration": 120
+    },
+    {
+      "word": "profils",
+      "confidence": 0.931,
+      "start": 27379,
+      "end": 27920,
+      "duration": 541
+    },
+    {
+      "word": "insécures.",
+      "confidence": 0.554,
+      "start": 27980,
+      "end": 28480,
+      "duration": 500
+    },
+    {
+      "word": "Profil",
+      "confidence": 0.786,
+      "start": 29160,
+      "end": 29441,
+      "duration": 281
+    },
+    {
+      "word": "d'attachement,",
+      "confidence": 0.863,
+      "start": 29501,
+      "end": 29901,
+      "duration": 400
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.18,
+      "start": 30081,
+      "end": 30182,
+      "duration": 101
+    },
+    {
+      "word": "sûr.",
+      "confidence": 0.417,
+      "start": 30202,
+      "end": 30342,
+      "duration": 140
+    },
+    {
+      "word": "Je",
+      "confidence": 0.702,
+      "start": 30362,
+      "end": 30402,
+      "duration": 40
+    },
+    {
+      "word": "travaille",
+      "confidence": 0.715,
+      "start": 30422,
+      "end": 30662,
+      "duration": 240
+    },
+    {
+      "word": "aussi",
+      "confidence": 0.936,
+      "start": 30682,
+      "end": 30843,
+      "duration": 161
+    },
+    {
+      "word": "sur",
+      "confidence": 0.873,
+      "start": 30883,
+      "end": 30963,
+      "duration": 80
+    },
+    {
+      "word": "les",
+      "confidence": 0.989,
+      "start": 31003,
+      "end": 31063,
+      "duration": 60
+    },
+    {
+      "word": "questions",
+      "confidence": 0.785,
+      "start": 31103,
+      "end": 31383,
+      "duration": 280
+    },
+    {
+      "word": "d'estime",
+      "confidence": 0.685,
+      "start": 31403,
+      "end": 31764,
+      "duration": 361
+    },
+    {
+      "word": "de",
+      "confidence": 0.977,
+      "start": 31804,
+      "end": 31884,
+      "duration": 80
+    },
+    {
+      "word": "soi",
+      "confidence": 0.79,
+      "start": 31924,
+      "end": 32144,
+      "duration": 220
+    },
+    {
+      "word": "et",
+      "confidence": 0.727,
+      "start": 32183,
+      "end": 32264,
+      "duration": 81
+    },
+    {
+      "word": "de",
+      "confidence": 0.74,
+      "start": 32305,
+      "end": 32384,
+      "duration": 79
+    },
+    {
+      "word": "confiance",
+      "confidence": 0.916,
+      "start": 32424,
+      "end": 32765,
+      "duration": 341
+    },
+    {
+      "word": "en",
+      "confidence": 0.93,
+      "start": 32825,
+      "end": 32905,
+      "duration": 80
+    },
+    {
+      "word": "soi",
+      "confidence": 0.939,
+      "start": 32925,
+      "end": 33106,
+      "duration": 181
+    },
+    {
+      "word": "qui",
+      "confidence": 0.778,
+      "start": 33126,
+      "end": 33246,
+      "duration": 120
+    },
+    {
+      "word": "sont",
+      "confidence": 0.734,
+      "start": 33286,
+      "end": 33426,
+      "duration": 140
+    },
+    {
+      "word": "souvent",
+      "confidence": 0.862,
+      "start": 33446,
+      "end": 33686,
+      "duration": 240
+    },
+    {
+      "word": "mal",
+      "confidence": 0.887,
+      "start": 33746,
+      "end": 33907,
+      "duration": 161
+    },
+    {
+      "word": "menées,",
+      "confidence": 0.875,
+      "start": 33947,
+      "end": 34548,
+      "duration": 601
+    },
+    {
+      "word": "je",
+      "confidence": 0.894,
+      "start": 34588,
+      "end": 34708,
+      "duration": 120
+    },
+    {
+      "word": "le",
+      "confidence": 0.862,
+      "start": 34748,
+      "end": 34888,
+      "duration": 140
+    },
+    {
+      "word": "dis",
+      "confidence": 0.96,
+      "start": 34928,
+      "end": 35208,
+      "duration": 280
+    },
+    {
+      "word": "à",
+      "confidence": 0.874,
+      "start": 35249,
+      "end": 35369,
+      "duration": 120
+    },
+    {
+      "word": "chaque",
+      "confidence": 0.82,
+      "start": 35389,
+      "end": 35589,
+      "duration": 200
+    },
+    {
+      "word": "fois.",
+      "confidence": 0.919,
+      "start": 35609,
+      "end": 36210,
+      "duration": 601
+    },
+    {
+      "word": "Donc",
+      "confidence": 0.731,
+      "start": 36250,
+      "end": 36410,
+      "duration": 160
+    },
+    {
+      "word": "si",
+      "confidence": 0.762,
+      "start": 36430,
+      "end": 36510,
+      "duration": 80
+    },
+    {
+      "word": "vous",
+      "confidence": 0.831,
+      "start": 36530,
+      "end": 36630,
+      "duration": 100
+    },
+    {
+      "word": "souhaitez",
+      "confidence": 0.843,
+      "start": 36691,
+      "end": 36971,
+      "duration": 280
+    },
+    {
+      "word": "des",
+      "confidence": 0.94,
+      "start": 36991,
+      "end": 37211,
+      "duration": 220
+    },
+    {
+      "word": "conseils,",
+      "confidence": 0.88,
+      "start": 37251,
+      "end": 37772,
+      "duration": 521
+    },
+    {
+      "word": "n'hésitez",
+      "confidence": 0.755,
+      "start": 37812,
+      "end": 38273,
+      "duration": 461
+    },
+    {
+      "word": "pas",
+      "confidence": 0.885,
+      "start": 38313,
+      "end": 38413,
+      "duration": 100
+    },
+    {
+      "word": "à",
+      "confidence": 0.735,
+      "start": 38433,
+      "end": 38453,
+      "duration": 20
+    },
+    {
+      "word": "vous",
+      "confidence": 0.845,
+      "start": 38513,
+      "end": 38673,
+      "duration": 160
+    },
+    {
+      "word": "abonner",
+      "confidence": 0.953,
+      "start": 38713,
+      "end": 39474,
+      "duration": 761
+    },
+    {
+      "word": "et",
+      "confidence": 0.827,
+      "start": 39534,
+      "end": 39915,
+      "duration": 381
+    },
+    {
+      "word": "effectivement",
+      "confidence": 0.924,
+      "start": 39975,
+      "end": 40716,
+      "duration": 741
+    },
+    {
+      "word": "regarder",
+      "confidence": 0.915,
+      "start": 40756,
+      "end": 41197,
+      "duration": 441
+    },
+    {
+      "word": "toutes",
+      "confidence": 0.848,
+      "start": 41217,
+      "end": 41437,
+      "duration": 220
+    },
+    {
+      "word": "les",
+      "confidence": 0.97,
+      "start": 41457,
+      "end": 41537,
+      "duration": 80
+    },
+    {
+      "word": "vidéos",
+      "confidence": 0.879,
+      "start": 41577,
+      "end": 42058,
+      "duration": 481
+    },
+    {
+      "word": "et",
+      "confidence": 0.859,
+      "start": 42098,
+      "end": 42358,
+      "duration": 260
+    },
+    {
+      "word": "celles",
+      "confidence": 0.9,
+      "start": 42378,
+      "end": 42559,
+      "duration": 181
+    },
+    {
+      "word": "qui",
+      "confidence": 0.891,
+      "start": 42599,
+      "end": 42699,
+      "duration": 100
+    },
+    {
+      "word": "sont",
+      "confidence": 0.892,
+      "start": 42719,
+      "end": 42839,
+      "duration": 120
+    },
+    {
+      "word": "épinglées",
+      "confidence": 0.797,
+      "start": 42879,
+      "end": 43680,
+      "duration": 801
+    },
+    {
+      "word": "en",
+      "confidence": 0.812,
+      "start": 43700,
+      "end": 43760,
+      "duration": 60
+    },
+    {
+      "word": "haut",
+      "confidence": 0.648,
+      "start": 43780,
+      "end": 43880,
+      "duration": 100
+    },
+    {
+      "word": "de",
+      "confidence": 0.635,
+      "start": 43900,
+      "end": 43960,
+      "duration": 60
+    },
+    {
+      "word": "mon",
+      "confidence": 0.91,
+      "start": 44001,
+      "end": 44121,
+      "duration": 120
+    },
+    {
+      "word": "profil.",
+      "confidence": 0.711,
+      "start": 44141,
+      "end": 44401,
+      "duration": 260
+    },
+    {
+      "word": "Donc",
+      "confidence": 0.865,
+      "start": 45342,
+      "end": 45862,
+      "duration": 520
+    },
+    {
+      "word": "évidemment",
+      "confidence": 0.93,
+      "start": 45903,
+      "end": 46543,
+      "duration": 640
+    },
+    {
+      "word": "qu'on",
+      "confidence": 0.886,
+      "start": 46563,
+      "end": 47664,
+      "duration": 1101
+    },
+    {
+      "word": "pourrait",
+      "confidence": 0.811,
+      "start": 47704,
+      "end": 48024,
+      "duration": 320
+    },
+    {
+      "word": "dire,",
+      "confidence": 0.845,
+      "start": 48064,
+      "end": 48344,
+      "duration": 280
+    },
+    {
+      "word": "ah",
+      "confidence": 0.218,
+      "start": 48384,
+      "end": 48424,
+      "duration": 40
+    },
+    {
+      "word": "ben",
+      "confidence": 0.734,
+      "start": 48464,
+      "end": 48584,
+      "duration": 120
+    },
+    {
+      "word": "oui",
+      "confidence": 0.746,
+      "start": 48604,
+      "end": 48744,
+      "duration": 140
+    },
+    {
+      "word": "une",
+      "confidence": 0.941,
+      "start": 48804,
+      "end": 48904,
+      "duration": 100
+    },
+    {
+      "word": "personne",
+      "confidence": 0.963,
+      "start": 48944,
+      "end": 49225,
+      "duration": 281
+    },
+    {
+      "word": "évitante,",
+      "confidence": 0.914,
+      "start": 49285,
+      "end": 50285,
+      "duration": 1000
+    },
+    {
+      "word": "évidemment",
+      "confidence": 0.725,
+      "start": 50325,
+      "end": 50766,
+      "duration": 441
+    },
+    {
+      "word": "elle",
+      "confidence": 0.689,
+      "start": 50826,
+      "end": 51006,
+      "duration": 180
+    },
+    {
+      "word": "fuit",
+      "confidence": 0.779,
+      "start": 51046,
+      "end": 51206,
+      "duration": 160
+    },
+    {
+      "word": "tout",
+      "confidence": 0.851,
+      "start": 51226,
+      "end": 51326,
+      "duration": 100
+    },
+    {
+      "word": "ce",
+      "confidence": 0.653,
+      "start": 51346,
+      "end": 51406,
+      "duration": 60
+    },
+    {
+      "word": "qui",
+      "confidence": 0.964,
+      "start": 51426,
+      "end": 51486,
+      "duration": 60
+    },
+    {
+      "word": "est",
+      "confidence": 0.675,
+      "start": 51526,
+      "end": 51626,
+      "duration": 100
+    },
+    {
+      "word": "sensibilité,",
+      "confidence": 0.86,
+      "start": 51666,
+      "end": 52467,
+      "duration": 801
+    },
+    {
+      "word": "tout",
+      "confidence": 0.863,
+      "start": 52507,
+      "end": 52607,
+      "duration": 100
+    },
+    {
+      "word": "ce",
+      "confidence": 0.752,
+      "start": 52647,
+      "end": 52707,
+      "duration": 60
+    },
+    {
+      "word": "qui",
+      "confidence": 0.915,
+      "start": 52727,
+      "end": 52787,
+      "duration": 60
+    },
+    {
+      "word": "est",
+      "confidence": 0.553,
+      "start": 52827,
+      "end": 52927,
+      "duration": 100
+    },
+    {
+      "word": "émotionnel,",
+      "confidence": 0.964,
+      "start": 52987,
+      "end": 54048,
+      "duration": 1061
+    },
+    {
+      "word": "puisque",
+      "confidence": 0.869,
+      "start": 54068,
+      "end": 54588,
+      "duration": 520
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.848,
+      "start": 54628,
+      "end": 54828,
+      "duration": 200
+    },
+    {
+      "word": "une",
+      "confidence": 0.928,
+      "start": 54868,
+      "end": 55048,
+      "duration": 180
+    },
+    {
+      "word": "façon",
+      "confidence": 0.998,
+      "start": 55088,
+      "end": 55489,
+      "duration": 401
+    },
+    {
+      "word": "pour",
+      "confidence": 0.917,
+      "start": 55549,
+      "end": 55749,
+      "duration": 200
+    },
+    {
+      "word": "eux",
+      "confidence": 0.981,
+      "start": 55789,
+      "end": 56369,
+      "duration": 580
+    },
+    {
+      "word": "de",
+      "confidence": 0.972,
+      "start": 56409,
+      "end": 56569,
+      "duration": 160
+    },
+    {
+      "word": "ne",
+      "confidence": 0.762,
+      "start": 56609,
+      "end": 56889,
+      "duration": 280
+    },
+    {
+      "word": "pas",
+      "confidence": 0.989,
+      "start": 56909,
+      "end": 57130,
+      "duration": 221
+    },
+    {
+      "word": "ressentir",
+      "confidence": 0.922,
+      "start": 57170,
+      "end": 57790,
+      "duration": 620
+    },
+    {
+      "word": "et",
+      "confidence": 0.763,
+      "start": 57830,
+      "end": 57930,
+      "duration": 100
+    },
+    {
+      "word": "de",
+      "confidence": 0.812,
+      "start": 57970,
+      "end": 58050,
+      "duration": 80
+    },
+    {
+      "word": "ne",
+      "confidence": 0.976,
+      "start": 58070,
+      "end": 58210,
+      "duration": 140
+    },
+    {
+      "word": "pas",
+      "confidence": 0.987,
+      "start": 58230,
+      "end": 58450,
+      "duration": 220
+    },
+    {
+      "word": "vouloir",
+      "confidence": 0.915,
+      "start": 58490,
+      "end": 58831,
+      "duration": 341
+    },
+    {
+      "word": "ressentir",
+      "confidence": 0.92,
+      "start": 58871,
+      "end": 59471,
+      "duration": 600
+    },
+    {
+      "word": "par",
+      "confidence": 0.919,
+      "start": 59511,
+      "end": 59791,
+      "duration": 280
+    },
+    {
+      "word": "protection.",
+      "confidence": 0.807,
+      "start": 59811,
+      "end": 60252,
+      "duration": 441
+    },
+    {
+      "word": "En",
+      "confidence": 0.889,
+      "start": 61827,
+      "end": 61907,
+      "duration": 80
+    },
+    {
+      "word": "réalité,",
+      "confidence": 0.914,
+      "start": 61927,
+      "end": 63228,
+      "duration": 1301
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.817,
+      "start": 63268,
+      "end": 63468,
+      "duration": 200
+    },
+    {
+      "word": "un",
+      "confidence": 0.903,
+      "start": 63508,
+      "end": 63568,
+      "duration": 60
+    },
+    {
+      "word": "petit",
+      "confidence": 0.752,
+      "start": 63608,
+      "end": 63808,
+      "duration": 200
+    },
+    {
+      "word": "peu",
+      "confidence": 0.971,
+      "start": 63828,
+      "end": 64087,
+      "duration": 259
+    },
+    {
+      "word": "annuancé,",
+      "confidence": 0.9,
+      "start": 64147,
+      "end": 65087,
+      "duration": 940
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.854,
+      "start": 65108,
+      "end": 65227,
+      "duration": 119
+    },
+    {
+      "word": "pour",
+      "confidence": 0.745,
+      "start": 65248,
+      "end": 65367,
+      "duration": 119
+    },
+    {
+      "word": "ça",
+      "confidence": 0.385,
+      "start": 65388,
+      "end": 65489,
+      "duration": 101
+    },
+    {
+      "word": "que",
+      "confidence": 0.842,
+      "start": 65509,
+      "end": 65589,
+      "duration": 80
+    },
+    {
+      "word": "je",
+      "confidence": 0.468,
+      "start": 65609,
+      "end": 65689,
+      "duration": 80
+    },
+    {
+      "word": "vais",
+      "confidence": 0.346,
+      "start": 65709,
+      "end": 65829,
+      "duration": 120
+    },
+    {
+      "word": "vous",
+      "confidence": 0.252,
+      "start": 65869,
+      "end": 65989,
+      "duration": 120
+    },
+    {
+      "word": "retravailler",
+      "confidence": 0.881,
+      "start": 66029,
+      "end": 66529,
+      "duration": 500
+    },
+    {
+      "word": "cette",
+      "confidence": 0.887,
+      "start": 66569,
+      "end": 66749,
+      "duration": 180
+    },
+    {
+      "word": "vidéo,",
+      "confidence": 0.959,
+      "start": 66789,
+      "end": 67289,
+      "duration": 500
+    },
+    {
+      "word": "parce",
+      "confidence": 0.964,
+      "start": 67309,
+      "end": 67689,
+      "duration": 380
+    },
+    {
+      "word": "qu'il",
+      "confidence": 0.792,
+      "start": 67749,
+      "end": 68890,
+      "duration": 1141
+    },
+    {
+      "word": "m'arrive",
+      "confidence": 0.917,
+      "start": 68910,
+      "end": 69250,
+      "duration": 340
+    },
+    {
+      "word": "d'avoir",
+      "confidence": 0.895,
+      "start": 69290,
+      "end": 69550,
+      "duration": 260
+    },
+    {
+      "word": "des",
+      "confidence": 0.78,
+      "start": 69570,
+      "end": 69730,
+      "duration": 160
+    },
+    {
+      "word": "personnes",
+      "confidence": 0.873,
+      "start": 69750,
+      "end": 70551,
+      "duration": 801
+    },
+    {
+      "word": "évitantes",
+      "confidence": 0.857,
+      "start": 70611,
+      "end": 71211,
+      "duration": 600
+    },
+    {
+      "word": "qui",
+      "confidence": 0.832,
+      "start": 71231,
+      "end": 71451,
+      "duration": 220
+    },
+    {
+      "word": "peuvent",
+      "confidence": 0.839,
+      "start": 71491,
+      "end": 71751,
+      "duration": 260
+    },
+    {
+      "word": "être",
+      "confidence": 0.86,
+      "start": 71791,
+      "end": 72051,
+      "duration": 260
+    },
+    {
+      "word": "tout",
+      "confidence": 0.793,
+      "start": 72091,
+      "end": 72311,
+      "duration": 220
+    },
+    {
+      "word": "à",
+      "confidence": 0.806,
+      "start": 72371,
+      "end": 72431,
+      "duration": 60
+    },
+    {
+      "word": "fait",
+      "confidence": 0.859,
+      "start": 72511,
+      "end": 72891,
+      "duration": 380
+    },
+    {
+      "word": "hypersensibles,",
+      "confidence": 0.787,
+      "start": 72931,
+      "end": 74272,
+      "duration": 1341
+    },
+    {
+      "word": "avoir",
+      "confidence": 0.82,
+      "start": 74312,
+      "end": 74612,
+      "duration": 300
+    },
+    {
+      "word": "une",
+      "confidence": 0.79,
+      "start": 74652,
+      "end": 74752,
+      "duration": 100
+    },
+    {
+      "word": "hypersensibilité",
+      "confidence": 0.876,
+      "start": 74772,
+      "end": 75653,
+      "duration": 881
+    },
+    {
+      "word": "que",
+      "confidence": 0.888,
+      "start": 75693,
+      "end": 75793,
+      "duration": 100
+    },
+    {
+      "word": "ce",
+      "confidence": 0.81,
+      "start": 75833,
+      "end": 75953,
+      "duration": 120
+    },
+    {
+      "word": "soit",
+      "confidence": 0.931,
+      "start": 75973,
+      "end": 76213,
+      "duration": 240
+    },
+    {
+      "word": "évitant",
+      "confidence": 0.955,
+      "start": 76253,
+      "end": 76913,
+      "duration": 660
+    },
+    {
+      "word": "ou",
+      "confidence": 0.973,
+      "start": 76973,
+      "end": 77173,
+      "duration": 200
+    },
+    {
+      "word": "aussi",
+      "confidence": 0.857,
+      "start": 77233,
+      "end": 77633,
+      "duration": 400
+    },
+    {
+      "word": "profil",
+      "confidence": 0.86,
+      "start": 77673,
+      "end": 78094,
+      "duration": 421
+    },
+    {
+      "word": "désorganisé",
+      "confidence": 0.844,
+      "start": 78114,
+      "end": 78714,
+      "duration": 600
+    },
+    {
+      "word": "chaotique.",
+      "confidence": 0.855,
+      "start": 78754,
+      "end": 79814,
+      "duration": 1060
+    },
+    {
+      "word": "C'est-à-dire",
+      "confidence": 0.741,
+      "start": 79854,
+      "end": 80314,
+      "duration": 460
+    },
+    {
+      "word": "que",
+      "confidence": 0.831,
+      "start": 80354,
+      "end": 80615,
+      "duration": 261
+    },
+    {
+      "word": "dans",
+      "confidence": 0.972,
+      "start": 80655,
+      "end": 81235,
+      "duration": 580
+    },
+    {
+      "word": "le",
+      "confidence": 0.936,
+      "start": 81275,
+      "end": 81355,
+      "duration": 80
+    },
+    {
+      "word": "profil",
+      "confidence": 0.831,
+      "start": 81395,
+      "end": 81695,
+      "duration": 300
+    },
+    {
+      "word": "chaotique,",
+      "confidence": 0.905,
+      "start": 81735,
+      "end": 82195,
+      "duration": 460
+    },
+    {
+      "word": "nous",
+      "confidence": 0.885,
+      "start": 82215,
+      "end": 82395,
+      "duration": 180
+    },
+    {
+      "word": "avons",
+      "confidence": 0.889,
+      "start": 82455,
+      "end": 83216,
+      "duration": 761
+    },
+    {
+      "word": "de",
+      "confidence": 0.855,
+      "start": 83236,
+      "end": 83356,
+      "duration": 120
+    },
+    {
+      "word": "l'évitant.",
+      "confidence": 0.618,
+      "start": 83396,
+      "end": 83776,
+      "duration": 380
+    },
+    {
+      "word": "et",
+      "confidence": 0.759,
+      "start": 84476,
+      "end": 84796,
+      "duration": 320
+    },
+    {
+      "word": "effectivement",
+      "confidence": 0.871,
+      "start": 84856,
+      "end": 85597,
+      "duration": 741
+    },
+    {
+      "word": "aussi",
+      "confidence": 0.926,
+      "start": 85657,
+      "end": 86098,
+      "duration": 441
+    },
+    {
+      "word": "évidemment",
+      "confidence": 0.788,
+      "start": 86158,
+      "end": 86618,
+      "duration": 460
+    },
+    {
+      "word": "de",
+      "confidence": 0.938,
+      "start": 86638,
+      "end": 86738,
+      "duration": 100
+    },
+    {
+      "word": "l'anxieux.",
+      "confidence": 0.763,
+      "start": 86778,
+      "end": 87739,
+      "duration": 961
+    },
+    {
+      "word": "Mais",
+      "confidence": 0.874,
+      "start": 87759,
+      "end": 88059,
+      "duration": 300
+    },
+    {
+      "word": "chez",
+      "confidence": 0.657,
+      "start": 88099,
+      "end": 88220,
+      "duration": 121
+    },
+    {
+      "word": "une",
+      "confidence": 0.804,
+      "start": 88280,
+      "end": 88480,
+      "duration": 200
+    },
+    {
+      "word": "personne",
+      "confidence": 0.792,
+      "start": 88520,
+      "end": 89040,
+      "duration": 520
+    },
+    {
+      "word": "évitante,",
+      "confidence": 0.948,
+      "start": 89100,
+      "end": 89621,
+      "duration": 521
+    },
+    {
+      "word": "j'ai",
+      "confidence": 0.894,
+      "start": 89641,
+      "end": 89801,
+      "duration": 160
+    },
+    {
+      "word": "le",
+      "confidence": 0.888,
+      "start": 89841,
+      "end": 89941,
+      "duration": 100
+    },
+    {
+      "word": "cas",
+      "confidence": 0.947,
+      "start": 89981,
+      "end": 90181,
+      "duration": 200
+    },
+    {
+      "word": "de",
+      "confidence": 0.798,
+      "start": 90201,
+      "end": 90402,
+      "duration": 201
+    },
+    {
+      "word": "plusieurs",
+      "confidence": 0.763,
+      "start": 90442,
+      "end": 90842,
+      "duration": 400
+    },
+    {
+      "word": "clientes,",
+      "confidence": 0.749,
+      "start": 90902,
+      "end": 91262,
+      "duration": 360
+    },
+    {
+      "word": "alors",
+      "confidence": 0.94,
+      "start": 91322,
+      "end": 91763,
+      "duration": 441
+    },
+    {
+      "word": "je",
+      "confidence": 0.86,
+      "start": 91783,
+      "end": 91903,
+      "duration": 120
+    },
+    {
+      "word": "ne",
+      "confidence": 0.954,
+      "start": 91943,
+      "end": 92003,
+      "duration": 60
+    },
+    {
+      "word": "sais",
+      "confidence": 0.913,
+      "start": 92063,
+      "end": 92263,
+      "duration": 200
+    },
+    {
+      "word": "pas,",
+      "confidence": 0.8,
+      "start": 92303,
+      "end": 92403,
+      "duration": 100
+    },
+    {
+      "word": "a",
+      "confidence": 0.019,
+      "start": 92423,
+      "end": 92443,
+      "duration": 20
+    },
+    {
+      "word": "priori,",
+      "confidence": 0.825,
+      "start": 92523,
+      "end": 92904,
+      "duration": 381
+    },
+    {
+      "word": "ça",
+      "confidence": 0.454,
+      "start": 92944,
+      "end": 93284,
+      "duration": 340
+    },
+    {
+      "word": "a",
+      "confidence": 0.999,
+      "start": 93364,
+      "end": 93424,
+      "duration": 60
+    },
+    {
+      "word": "l'air",
+      "confidence": 0.961,
+      "start": 93444,
+      "end": 93745,
+      "duration": 301
+    },
+    {
+      "word": "plutôt",
+      "confidence": 0.755,
+      "start": 93805,
+      "end": 94165,
+      "duration": 360
+    },
+    {
+      "word": "féminin",
+      "confidence": 0.885,
+      "start": 94225,
+      "end": 94786,
+      "duration": 561
+    },
+    {
+      "word": "malgré",
+      "confidence": 0.846,
+      "start": 94826,
+      "end": 95186,
+      "duration": 360
+    },
+    {
+      "word": "tout,",
+      "confidence": 0.782,
+      "start": 95226,
+      "end": 96047,
+      "duration": 821
+    },
+    {
+      "word": "mais",
+      "confidence": 0.924,
+      "start": 96067,
+      "end": 96347,
+      "duration": 280
+    },
+    {
+      "word": "nous",
+      "confidence": 0.879,
+      "start": 96387,
+      "end": 96547,
+      "duration": 160
+    },
+    {
+      "word": "avons",
+      "confidence": 0.911,
+      "start": 96607,
+      "end": 98669,
+      "duration": 2062
+    },
+    {
+      "word": "des",
+      "confidence": 0.986,
+      "start": 98709,
+      "end": 99270,
+      "duration": 561
+    },
+    {
+      "word": "profils",
+      "confidence": 0.908,
+      "start": 99330,
+      "end": 100090,
+      "duration": 760
+    },
+    {
+      "word": "évitants",
+      "confidence": 0.955,
+      "start": 100150,
+      "end": 101111,
+      "duration": 961
+    },
+    {
+      "word": "et",
+      "confidence": 0.804,
+      "start": 101151,
+      "end": 101331,
+      "duration": 180
+    },
+    {
+      "word": "plutôt,",
+      "confidence": 0.852,
+      "start": 101372,
+      "end": 101712,
+      "duration": 340
+    },
+    {
+      "word": "si",
+      "confidence": 0.919,
+      "start": 101792,
+      "end": 101852,
+      "duration": 60
+    },
+    {
+      "word": "je",
+      "confidence": 0.603,
+      "start": 101872,
+      "end": 101932,
+      "duration": 60
+    },
+    {
+      "word": "dois",
+      "confidence": 0.605,
+      "start": 101952,
+      "end": 102052,
+      "duration": 100
+    },
+    {
+      "word": "aller",
+      "confidence": 0.243,
+      "start": 102072,
+      "end": 102192,
+      "duration": 120
+    },
+    {
+      "word": "dans",
+      "confidence": 0.827,
+      "start": 102212,
+      "end": 102352,
+      "duration": 140
+    },
+    {
+      "word": "le",
+      "confidence": 0.978,
+      "start": 102392,
+      "end": 102473,
+      "duration": 81
+    },
+    {
+      "word": "détail,",
+      "confidence": 0.945,
+      "start": 102513,
+      "end": 103493,
+      "duration": 980
+    },
+    {
+      "word": "plutôt",
+      "confidence": 0.888,
+      "start": 103513,
+      "end": 104014,
+      "duration": 501
+    },
+    {
+      "word": "évitants",
+      "confidence": 0.809,
+      "start": 104054,
+      "end": 104955,
+      "duration": 901
+    },
+    {
+      "word": "craintifs,",
+      "confidence": 0.808,
+      "start": 104995,
+      "end": 106196,
+      "duration": 1201
+    },
+    {
+      "word": "au",
+      "confidence": 0.994,
+      "start": 106256,
+      "end": 106356,
+      "duration": 100
+    },
+    {
+      "word": "contraire",
+      "confidence": 0.936,
+      "start": 106396,
+      "end": 107077,
+      "duration": 681
+    },
+    {
+      "word": "d'évitants",
+      "confidence": 0.806,
+      "start": 107117,
+      "end": 107637,
+      "duration": 520
+    },
+    {
+      "word": "dédaigneux.",
+      "confidence": 0.389,
+      "start": 107657,
+      "end": 108058,
+      "duration": 401
+    },
+    {
+      "word": "et",
+      "confidence": 0.65,
+      "start": 108678,
+      "end": 108798,
+      "duration": 120
+    },
+    {
+      "word": "les",
+      "confidence": 0.721,
+      "start": 108818,
+      "end": 108938,
+      "duration": 120
+    },
+    {
+      "word": "évitants",
+      "confidence": 0.659,
+      "start": 108978,
+      "end": 109318,
+      "duration": 340
+    },
+    {
+      "word": "craintifs",
+      "confidence": 0.722,
+      "start": 109398,
+      "end": 109899,
+      "duration": 501
+    },
+    {
+      "word": "peuvent",
+      "confidence": 0.854,
+      "start": 110459,
+      "end": 110739,
+      "duration": 280
+    },
+    {
+      "word": "avoir",
+      "confidence": 0.832,
+      "start": 110779,
+      "end": 111219,
+      "duration": 440
+    },
+    {
+      "word": "cette",
+      "confidence": 0.958,
+      "start": 111239,
+      "end": 112020,
+      "duration": 781
+    },
+    {
+      "word": "hypersensibilité",
+      "confidence": 0.907,
+      "start": 112060,
+      "end": 113901,
+      "duration": 1841
+    },
+    {
+      "word": "que",
+      "confidence": 0.967,
+      "start": 113941,
+      "end": 114041,
+      "duration": 100
+    },
+    {
+      "word": "l'on",
+      "confidence": 0.648,
+      "start": 114081,
+      "end": 114261,
+      "duration": 180
+    },
+    {
+      "word": "va",
+      "confidence": 0.908,
+      "start": 114301,
+      "end": 114481,
+      "duration": 180
+    },
+    {
+      "word": "retrouver",
+      "confidence": 0.921,
+      "start": 114521,
+      "end": 115161,
+      "duration": 640
+    },
+    {
+      "word": "même",
+      "confidence": 0.925,
+      "start": 115181,
+      "end": 115362,
+      "duration": 181
+    },
+    {
+      "word": "chez",
+      "confidence": 0.636,
+      "start": 115402,
+      "end": 115582,
+      "duration": 180
+    },
+    {
+      "word": "un",
+      "confidence": 0.408,
+      "start": 115622,
+      "end": 115722,
+      "duration": 100
+    },
+    {
+      "word": "profil",
+      "confidence": 0.811,
+      "start": 115782,
+      "end": 116122,
+      "duration": 340
+    },
+    {
+      "word": "évitant",
+      "confidence": 0.838,
+      "start": 116182,
+      "end": 117062,
+      "duration": 880
+    },
+    {
+      "word": "et",
+      "confidence": 0.932,
+      "start": 117123,
+      "end": 117403,
+      "duration": 280
+    },
+    {
+      "word": "effectivement",
+      "confidence": 0.817,
+      "start": 117463,
+      "end": 118043,
+      "duration": 580
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.775,
+      "start": 118083,
+      "end": 118203,
+      "duration": 120
+    },
+    {
+      "word": "ce",
+      "confidence": 0.75,
+      "start": 118223,
+      "end": 118283,
+      "duration": 60
+    },
+    {
+      "word": "qui",
+      "confidence": 0.912,
+      "start": 118303,
+      "end": 118443,
+      "duration": 140
+    },
+    {
+      "word": "va",
+      "confidence": 0.743,
+      "start": 118483,
+      "end": 118643,
+      "duration": 160
+    },
+    {
+      "word": "faire",
+      "confidence": 0.802,
+      "start": 118703,
+      "end": 119023,
+      "duration": 320
+    },
+    {
+      "word": "que",
+      "confidence": 0.824,
+      "start": 119064,
+      "end": 120004,
+      "duration": 940
+    },
+    {
+      "word": "j'ai",
+      "confidence": 0.356,
+      "start": 120044,
+      "end": 120144,
+      "duration": 100
+    },
+    {
+      "word": "des",
+      "confidence": 0.251,
+      "start": 120164,
+      "end": 120244,
+      "duration": 80
+    },
+    {
+      "word": "clientes",
+      "confidence": 0.836,
+      "start": 120284,
+      "end": 120624,
+      "duration": 340
+    },
+    {
+      "word": "qui",
+      "confidence": 0.987,
+      "start": 120664,
+      "end": 120784,
+      "duration": 120
+    },
+    {
+      "word": "se",
+      "confidence": 0.996,
+      "start": 120824,
+      "end": 120924,
+      "duration": 100
+    },
+    {
+      "word": "croient",
+      "confidence": 0.663,
+      "start": 120965,
+      "end": 121185,
+      "duration": 220
+    },
+    {
+      "word": "anxieuses",
+      "confidence": 0.772,
+      "start": 121225,
+      "end": 122065,
+      "duration": 840
+    },
+    {
+      "word": "mais",
+      "confidence": 0.902,
+      "start": 122085,
+      "end": 122245,
+      "duration": 160
+    },
+    {
+      "word": "en",
+      "confidence": 0.856,
+      "start": 122285,
+      "end": 122385,
+      "duration": 100
+    },
+    {
+      "word": "réalité",
+      "confidence": 0.944,
+      "start": 122425,
+      "end": 122745,
+      "duration": 320
+    },
+    {
+      "word": "elles",
+      "confidence": 0.64,
+      "start": 122805,
+      "end": 122986,
+      "duration": 181
+    },
+    {
+      "word": "sont",
+      "confidence": 0.892,
+      "start": 123006,
+      "end": 123206,
+      "duration": 200
+    },
+    {
+      "word": "bien",
+      "confidence": 0.951,
+      "start": 123246,
+      "end": 123426,
+      "duration": 180
+    },
+    {
+      "word": "évitantes,",
+      "confidence": 0.859,
+      "start": 123466,
+      "end": 124486,
+      "duration": 1020
+    },
+    {
+      "word": "les",
+      "confidence": 0.879,
+      "start": 124526,
+      "end": 124646,
+      "duration": 120
+    },
+    {
+      "word": "tests",
+      "confidence": 0.927,
+      "start": 124686,
+      "end": 125287,
+      "duration": 601
+    },
+    {
+      "word": "en",
+      "confidence": 0.891,
+      "start": 125347,
+      "end": 125467,
+      "duration": 120
+    },
+    {
+      "word": "approuvent",
+      "confidence": 0.798,
+      "start": 125527,
+      "end": 126467,
+      "duration": 940
+    },
+    {
+      "word": "mais",
+      "confidence": 0.953,
+      "start": 126507,
+      "end": 126808,
+      "duration": 301
+    },
+    {
+      "word": "effectivement",
+      "confidence": 0.815,
+      "start": 126868,
+      "end": 127528,
+      "duration": 660
+    },
+    {
+      "word": "leur",
+      "confidence": 0.936,
+      "start": 127568,
+      "end": 127748,
+      "duration": 180
+    },
+    {
+      "word": "côté",
+      "confidence": 0.97,
+      "start": 127768,
+      "end": 128628,
+      "duration": 860
+    },
+    {
+      "word": "craintif",
+      "confidence": 0.812,
+      "start": 128669,
+      "end": 129408,
+      "duration": 739
+    },
+    {
+      "word": "va",
+      "confidence": 0.844,
+      "start": 130570,
+      "end": 130729,
+      "duration": 159
+    },
+    {
+      "word": "faire",
+      "confidence": 0.818,
+      "start": 130770,
+      "end": 131090,
+      "duration": 320
+    },
+    {
+      "word": "que",
+      "confidence": 0.775,
+      "start": 131130,
+      "end": 131790,
+      "duration": 660
+    },
+    {
+      "word": "ça",
+      "confidence": 0.573,
+      "start": 131830,
+      "end": 132050,
+      "duration": 220
+    },
+    {
+      "word": "va",
+      "confidence": 0.87,
+      "start": 132090,
+      "end": 132290,
+      "duration": 200
+    },
+    {
+      "word": "venir",
+      "confidence": 0.969,
+      "start": 132330,
+      "end": 133131,
+      "duration": 801
+    },
+    {
+      "word": "toucher",
+      "confidence": 0.914,
+      "start": 133171,
+      "end": 133611,
+      "duration": 440
+    },
+    {
+      "word": "leur",
+      "confidence": 0.936,
+      "start": 133651,
+      "end": 133931,
+      "duration": 280
+    },
+    {
+      "word": "sensibilité",
+      "confidence": 0.954,
+      "start": 133971,
+      "end": 134672,
+      "duration": 701
+    },
+    {
+      "word": "probablement",
+      "confidence": 0.788,
+      "start": 135732,
+      "end": 136233,
+      "duration": 501
+    },
+    {
+      "word": "pour",
+      "confidence": 0.915,
+      "start": 136293,
+      "end": 136473,
+      "duration": 180
+    },
+    {
+      "word": "certaines",
+      "confidence": 0.933,
+      "start": 136513,
+      "end": 136953,
+      "duration": 440
+    },
+    {
+      "word": "hypersensibilités,",
+      "confidence": 0.849,
+      "start": 136973,
+      "end": 138395,
+      "duration": 1422
+    },
+    {
+      "word": "et",
+      "confidence": 0.788,
+      "start": 138435,
+      "end": 138735,
+      "duration": 300
+    },
+    {
+      "word": "justement",
+      "confidence": 0.928,
+      "start": 138755,
+      "end": 139516,
+      "duration": 761
+    },
+    {
+      "word": "que",
+      "confidence": 0.882,
+      "start": 139536,
+      "end": 139856,
+      "duration": 320
+    },
+    {
+      "word": "ça",
+      "confidence": 0.643,
+      "start": 139876,
+      "end": 139976,
+      "duration": 100
+    },
+    {
+      "word": "va",
+      "confidence": 0.46,
+      "start": 140016,
+      "end": 140056,
+      "duration": 40
+    },
+    {
+      "word": "être",
+      "confidence": 0.476,
+      "start": 140096,
+      "end": 140196,
+      "duration": 100
+    },
+    {
+      "word": "cette",
+      "confidence": 0.982,
+      "start": 140236,
+      "end": 140476,
+      "duration": 240
+    },
+    {
+      "word": "hypersensibilité",
+      "confidence": 0.918,
+      "start": 140496,
+      "end": 141557,
+      "duration": 1061
+    },
+    {
+      "word": "qui",
+      "confidence": 0.906,
+      "start": 141597,
+      "end": 141818,
+      "duration": 221
+    },
+    {
+      "word": "va",
+      "confidence": 0.847,
+      "start": 141858,
+      "end": 142598,
+      "duration": 740
+    },
+    {
+      "word": "finalement",
+      "confidence": 0.848,
+      "start": 142638,
+      "end": 143019,
+      "duration": 381
+    },
+    {
+      "word": "les",
+      "confidence": 0.931,
+      "start": 143059,
+      "end": 143179,
+      "duration": 120
+    },
+    {
+      "word": "mettre",
+      "confidence": 0.823,
+      "start": 143219,
+      "end": 143459,
+      "duration": 240
+    },
+    {
+      "word": "en",
+      "confidence": 0.651,
+      "start": 143499,
+      "end": 143619,
+      "duration": 120
+    },
+    {
+      "word": "difficulté",
+      "confidence": 0.896,
+      "start": 143639,
+      "end": 144260,
+      "duration": 621
+    },
+    {
+      "word": "avec",
+      "confidence": 0.944,
+      "start": 144300,
+      "end": 144600,
+      "duration": 300
+    },
+    {
+      "word": "un",
+      "confidence": 0.826,
+      "start": 144640,
+      "end": 144740,
+      "duration": 100
+    },
+    {
+      "word": "profil",
+      "confidence": 0.906,
+      "start": 144800,
+      "end": 145421,
+      "duration": 621
+    },
+    {
+      "word": "évitant,",
+      "confidence": 0.946,
+      "start": 145461,
+      "end": 146241,
+      "duration": 780
+    },
+    {
+      "word": "souvent",
+      "confidence": 0.868,
+      "start": 146261,
+      "end": 146562,
+      "duration": 301
+    },
+    {
+      "word": "dédaigneux.",
+      "confidence": 0.711,
+      "start": 146602,
+      "end": 147583,
+      "duration": 981
+    },
+    {
+      "word": "Donc",
+      "confidence": 0.582,
+      "start": 147603,
+      "end": 147763,
+      "duration": 160
+    },
+    {
+      "word": "si",
+      "confidence": 0.912,
+      "start": 147783,
+      "end": 147843,
+      "duration": 60
+    },
+    {
+      "word": "vous",
+      "confidence": 0.756,
+      "start": 147863,
+      "end": 147983,
+      "duration": 120
+    },
+    {
+      "word": "avez",
+      "confidence": 0.624,
+      "start": 148023,
+      "end": 148183,
+      "duration": 160
+    },
+    {
+      "word": "des",
+      "confidence": 0.674,
+      "start": 148223,
+      "end": 148323,
+      "duration": 100
+    },
+    {
+      "word": "questions",
+      "confidence": 0.83,
+      "start": 148343,
+      "end": 148704,
+      "duration": 361
+    },
+    {
+      "word": "par",
+      "confidence": 0.73,
+      "start": 149264,
+      "end": 149344,
+      "duration": 80
+    },
+    {
+      "word": "rapport",
+      "confidence": 0.775,
+      "start": 149384,
+      "end": 149624,
+      "duration": 240
+    },
+    {
+      "word": "à",
+      "confidence": 0.946,
+      "start": 149684,
+      "end": 149744,
+      "duration": 60
+    },
+    {
+      "word": "ça,",
+      "confidence": 0.704,
+      "start": 149784,
+      "end": 150405,
+      "duration": 621
+    },
+    {
+      "word": "n'hésitez",
+      "confidence": 0.812,
+      "start": 150425,
+      "end": 150925,
+      "duration": 500
+    },
+    {
+      "word": "pas",
+      "confidence": 0.921,
+      "start": 150966,
+      "end": 151146,
+      "duration": 180
+    },
+    {
+      "word": "à",
+      "confidence": 0.891,
+      "start": 151206,
+      "end": 151266,
+      "duration": 60
+    },
+    {
+      "word": "me",
+      "confidence": 0.644,
+      "start": 151306,
+      "end": 151426,
+      "duration": 120
+    },
+    {
+      "word": "les",
+      "confidence": 0.751,
+      "start": 151466,
+      "end": 151666,
+      "duration": 200
+    },
+    {
+      "word": "poser",
+      "confidence": 0.903,
+      "start": 151706,
+      "end": 152227,
+      "duration": 521
+    },
+    {
+      "word": "en",
+      "confidence": 0.855,
+      "start": 152267,
+      "end": 152387,
+      "duration": 120
+    },
+    {
+      "word": "commentaire.",
+      "confidence": 0.947,
+      "start": 152407,
+      "end": 153948,
+      "duration": 1541
+    },
+    {
+      "word": "Donc",
+      "confidence": 0.631,
+      "start": 153988,
+      "end": 154288,
+      "duration": 300
+    },
+    {
+      "word": "je",
+      "confidence": 0.61,
+      "start": 154328,
+      "end": 154408,
+      "duration": 80
+    },
+    {
+      "word": "ne",
+      "confidence": 0.888,
+      "start": 154428,
+      "end": 154469,
+      "duration": 41
+    },
+    {
+      "word": "sais",
+      "confidence": 0.848,
+      "start": 154509,
+      "end": 154629,
+      "duration": 120
+    },
+    {
+      "word": "pas",
+      "confidence": 0.821,
+      "start": 154669,
+      "end": 154789,
+      "duration": 120
+    },
+    {
+      "word": "si",
+      "confidence": 0.682,
+      "start": 154829,
+      "end": 154929,
+      "duration": 100
+    },
+    {
+      "word": "je",
+      "confidence": 0.642,
+      "start": 154949,
+      "end": 155029,
+      "duration": 80
+    },
+    {
+      "word": "vais",
+      "confidence": 0.446,
+      "start": 155049,
+      "end": 155169,
+      "duration": 120
+    },
+    {
+      "word": "réussir",
+      "confidence": 0.742,
+      "start": 155189,
+      "end": 155650,
+      "duration": 461
+    },
+    {
+      "word": "à",
+      "confidence": 0.712,
+      "start": 155690,
+      "end": 155750,
+      "duration": 60
+    },
+    {
+      "word": "répondre",
+      "confidence": 0.833,
+      "start": 155790,
+      "end": 156110,
+      "duration": 320
+    },
+    {
+      "word": "à",
+      "confidence": 0.49,
+      "start": 156150,
+      "end": 156190,
+      "duration": 40
+    },
+    {
+      "word": "tout",
+      "confidence": 0.853,
+      "start": 156230,
+      "end": 156390,
+      "duration": 160
+    },
+    {
+      "word": "le",
+      "confidence": 0.798,
+      "start": 156410,
+      "end": 156470,
+      "duration": 60
+    },
+    {
+      "word": "monde,",
+      "confidence": 0.722,
+      "start": 156510,
+      "end": 156991,
+      "duration": 481
+    },
+    {
+      "word": "mais",
+      "confidence": 0.865,
+      "start": 157011,
+      "end": 157151,
+      "duration": 140
+    },
+    {
+      "word": "en",
+      "confidence": 0.74,
+      "start": 157191,
+      "end": 157251,
+      "duration": 60
+    },
+    {
+      "word": "tout",
+      "confidence": 0.875,
+      "start": 157291,
+      "end": 157431,
+      "duration": 140
+    },
+    {
+      "word": "cas",
+      "confidence": 0.904,
+      "start": 157451,
+      "end": 157631,
+      "duration": 180
+    },
+    {
+      "word": "j'en",
+      "confidence": 0.903,
+      "start": 157671,
+      "end": 157811,
+      "duration": 140
+    },
+    {
+      "word": "prends",
+      "confidence": 0.62,
+      "start": 157851,
+      "end": 158072,
+      "duration": 221
+    },
+    {
+      "word": "connaissance",
+      "confidence": 0.878,
+      "start": 158112,
+      "end": 158592,
+      "duration": 480
+    },
+    {
+      "word": "et",
+      "confidence": 0.868,
+      "start": 158632,
+      "end": 158712,
+      "duration": 80
+    },
+    {
+      "word": "je",
+      "confidence": 0.779,
+      "start": 158732,
+      "end": 158812,
+      "duration": 80
+    },
+    {
+      "word": "vais",
+      "confidence": 0.604,
+      "start": 158832,
+      "end": 158972,
+      "duration": 140
+    },
+    {
+      "word": "faire",
+      "confidence": 0.775,
+      "start": 159012,
+      "end": 159233,
+      "duration": 221
+    },
+    {
+      "word": "d'autres",
+      "confidence": 0.897,
+      "start": 159273,
+      "end": 159553,
+      "duration": 280
+    },
+    {
+      "word": "vidéos",
+      "confidence": 0.917,
+      "start": 159573,
+      "end": 159933,
+      "duration": 360
+    },
+    {
+      "word": "sur",
+      "confidence": 0.873,
+      "start": 159953,
+      "end": 160113,
+      "duration": 160
+    },
+    {
+      "word": "le",
+      "confidence": 0.869,
+      "start": 160153,
+      "end": 160254,
+      "duration": 101
+    },
+    {
+      "word": "sujet",
+      "confidence": 0.752,
+      "start": 160294,
+      "end": 160594,
+      "duration": 300
+    },
+    {
+      "word": "si",
+      "confidence": 0.64,
+      "start": 160614,
+      "end": 160754,
+      "duration": 140
+    },
+    {
+      "word": "ça",
+      "confidence": 0.468,
+      "start": 160774,
+      "end": 160934,
+      "duration": 160
+    },
+    {
+      "word": "vous",
+      "confidence": 0.367,
+      "start": 160974,
+      "end": 161114,
+      "duration": 140
+    },
+    {
+      "word": "intéresse.",
+      "confidence": 0.43,
+      "start": 161174,
+      "end": 161475,
+      "duration": 301
+    },
+    {
+      "word": "Mais",
+      "confidence": 0.94,
+      "start": 162375,
+      "end": 162655,
+      "duration": 280
+    },
+    {
+      "word": "effectivement,",
+      "confidence": 0.881,
+      "start": 162715,
+      "end": 163456,
+      "duration": 741
+    },
+    {
+      "word": "comment",
+      "confidence": 0.827,
+      "start": 163476,
+      "end": 163756,
+      "duration": 280
+    },
+    {
+      "word": "faire",
+      "confidence": 0.775,
+      "start": 163836,
+      "end": 163976,
+      "duration": 140
+    },
+    {
+      "word": "la",
+      "confidence": 0.958,
+      "start": 164036,
+      "end": 164096,
+      "duration": 60
+    },
+    {
+      "word": "différence",
+      "confidence": 0.815,
+      "start": 164136,
+      "end": 164916,
+      "duration": 780
+    },
+    {
+      "word": "?",
+      "confidence": 0.5,
+      "start": 164926,
+      "end": 164966,
+      "duration": 40
+    },
+    {
+      "word": "Eh",
+      "confidence": 0.717,
+      "start": 164976,
+      "end": 165116,
+      "duration": 140
+    },
+    {
+      "word": "bien",
+      "confidence": 0.729,
+      "start": 165136,
+      "end": 165336,
+      "duration": 200
+    },
+    {
+      "word": "déjà,",
+      "confidence": 0.866,
+      "start": 165376,
+      "end": 165597,
+      "duration": 221
+    },
+    {
+      "word": "il",
+      "confidence": 0.786,
+      "start": 165657,
+      "end": 165757,
+      "duration": 100
+    },
+    {
+      "word": "faut",
+      "confidence": 0.954,
+      "start": 165777,
+      "end": 166117,
+      "duration": 340
+    },
+    {
+      "word": "comprendre",
+      "confidence": 0.804,
+      "start": 166157,
+      "end": 166597,
+      "duration": 440
+    },
+    {
+      "word": "vraiment",
+      "confidence": 0.913,
+      "start": 166617,
+      "end": 167717,
+      "duration": 1100
+    },
+    {
+      "word": "les",
+      "confidence": 0.911,
+      "start": 167777,
+      "end": 167917,
+      "duration": 140
+    },
+    {
+      "word": "profils,",
+      "confidence": 0.819,
+      "start": 167978,
+      "end": 168838,
+      "duration": 860
+    },
+    {
+      "word": "mais",
+      "confidence": 0.858,
+      "start": 168878,
+      "end": 169118,
+      "duration": 240
+    },
+    {
+      "word": "je",
+      "confidence": 0.729,
+      "start": 169158,
+      "end": 169218,
+      "duration": 60
+    },
+    {
+      "word": "veux",
+      "confidence": 0.519,
+      "start": 169238,
+      "end": 169358,
+      "duration": 120
+    },
+    {
+      "word": "dire",
+      "confidence": 0.632,
+      "start": 169378,
+      "end": 169578,
+      "duration": 200
+    },
+    {
+      "word": "que",
+      "confidence": 0.76,
+      "start": 169598,
+      "end": 169738,
+      "duration": 140
+    },
+    {
+      "word": "c'est",
+      "confidence": 0.776,
+      "start": 169758,
+      "end": 169998,
+      "duration": 240
+    },
+    {
+      "word": "loin",
+      "confidence": 0.848,
+      "start": 170018,
+      "end": 170258,
+      "duration": 240
+    },
+    {
+      "word": "d'être",
+      "confidence": 0.88,
+      "start": 170298,
+      "end": 170619,
+      "duration": 321
+    },
+    {
+      "word": "facile,",
+      "confidence": 0.872,
+      "start": 170659,
+      "end": 171079,
+      "duration": 420
+    },
+    {
+      "word": "puisqu'on",
+      "confidence": 0.804,
+      "start": 171119,
+      "end": 172019,
+      "duration": 900
+    },
+    {
+      "word": "a",
+      "confidence": 0.462,
+      "start": 172079,
+      "end": 172159,
+      "duration": 80
+    },
+    {
+      "word": "des",
+      "confidence": 0.769,
+      "start": 172179,
+      "end": 172279,
+      "duration": 100
+    },
+    {
+      "word": "personnes",
+      "confidence": 0.942,
+      "start": 172299,
+      "end": 172559,
+      "duration": 260
+    },
+    {
+      "word": "hypersensibles",
+      "confidence": 0.826,
+      "start": 172599,
+      "end": 173140,
+      "duration": 541
+    },
+    {
+      "word": "qui",
+      "confidence": 0.872,
+      "start": 173160,
+      "end": 173240,
+      "duration": 80
+    },
+    {
+      "word": "ne",
+      "confidence": 0.958,
+      "start": 173280,
+      "end": 173320,
+      "duration": 40
+    },
+    {
+      "word": "sont",
+      "confidence": 0.919,
+      "start": 173360,
+      "end": 173520,
+      "duration": 160
+    },
+    {
+      "word": "pas",
+      "confidence": 0.764,
+      "start": 173540,
+      "end": 173640,
+      "duration": 100
+    },
+    {
+      "word": "de",
+      "confidence": 0.986,
+      "start": 173660,
+      "end": 173720,
+      "duration": 60
+    },
+    {
+      "word": "profil",
+      "confidence": 0.771,
+      "start": 173760,
+      "end": 174100,
+      "duration": 340
+    },
+    {
+      "word": "évitant,",
+      "confidence": 0.715,
+      "start": 174180,
+      "end": 174700,
+      "duration": 520
+    },
+    {
+      "word": "évidemment,",
+      "confidence": 0.924,
+      "start": 174760,
+      "end": 175561,
+      "duration": 801
+    },
+    {
+      "word": "mais",
+      "confidence": 0.843,
+      "start": 175601,
+      "end": 175721,
+      "duration": 120
+    },
+    {
+      "word": "il",
+      "confidence": 0.71,
+      "start": 175781,
+      "end": 175861,
+      "duration": 80
+    },
+    {
+      "word": "peut",
+      "confidence": 0.677,
+      "start": 175881,
+      "end": 176021,
+      "duration": 140
+    },
+    {
+      "word": "y",
+      "confidence": 0.932,
+      "start": 176041,
+      "end": 176061,
+      "duration": 20
+    },
+    {
+      "word": "avoir",
+      "confidence": 0.846,
+      "start": 176121,
+      "end": 176301,
+      "duration": 180
+    },
+    {
+      "word": "effectivement,",
+      "confidence": 0.831,
+      "start": 176341,
+      "end": 176721,
+      "duration": 380
+    },
+    {
+      "word": "comme",
+      "confidence": 0.899,
+      "start": 176761,
+      "end": 176901,
+      "duration": 140
+    },
+    {
+      "word": "je",
+      "confidence": 0.976,
+      "start": 176941,
+      "end": 176981,
+      "duration": 40
+    },
+    {
+      "word": "l'ai",
+      "confidence": 0.694,
+      "start": 177021,
+      "end": 177101,
+      "duration": 80
+    },
+    {
+      "word": "dit",
+      "confidence": 0.627,
+      "start": 177141,
+      "end": 177241,
+      "duration": 100
+    },
+    {
+      "word": "dans",
+      "confidence": 0.883,
+      "start": 177261,
+      "end": 177341,
+      "duration": 80
+    },
+    {
+      "word": "la",
+      "confidence": 0.721,
+      "start": 177381,
+      "end": 177441,
+      "duration": 60
+    },
+    {
+      "word": "vidéo,",
+      "confidence": 0.777,
+      "start": 177461,
+      "end": 178022,
+      "duration": 561
+    },
+    {
+      "word": "des",
+      "confidence": 0.641,
+      "start": 178042,
+      "end": 178162,
+      "duration": 120
+    },
+    {
+      "word": "profils",
+      "confidence": 0.829,
+      "start": 178182,
+      "end": 178582,
+      "duration": 400
+    },
+    {
+      "word": "évitants,",
+      "confidence": 0.923,
+      "start": 178622,
+      "end": 179762,
+      "duration": 1140
+    },
+    {
+      "word": "s'ils",
+      "confidence": 0.715,
+      "start": 179802,
+      "end": 180243,
+      "duration": 441
+    },
+    {
+      "word": "sont",
+      "confidence": 0.912,
+      "start": 180283,
+      "end": 180883,
+      "duration": 600
+    },
+    {
+      "word": "dans",
+      "confidence": 0.908,
+      "start": 180903,
+      "end": 181063,
+      "duration": 160
+    },
+    {
+      "word": "la",
+      "confidence": 0.992,
+      "start": 181103,
+      "end": 181203,
+      "duration": 100
+    },
+    {
+      "word": "partie,",
+      "confidence": 0.942,
+      "start": 181263,
+      "end": 181723,
+      "duration": 460
+    },
+    {
+      "word": "effectivement,",
+      "confidence": 0.856,
+      "start": 181763,
+      "end": 182344,
+      "duration": 581
+    },
+    {
+      "word": "que",
+      "confidence": 0.84,
+      "start": 182364,
+      "end": 182484,
+      "duration": 120
+    },
+    {
+      "word": "l'on",
+      "confidence": 0.895,
+      "start": 182524,
+      "end": 182664,
+      "duration": 140
+    },
+    {
+      "word": "dit",
+      "confidence": 0.895,
+      "start": 182684,
+      "end": 183204,
+      "duration": 520
+    },
+    {
+      "word": "évitant-craintif.",
+      "confidence": 0.867,
+      "start": 183284,
+      "end": 184705,
+      "duration": 1421
+    },
+    {
+      "word": "Voilà,",
+      "confidence": 0.884,
+      "start": 184745,
+      "end": 184945,
+      "duration": 200
+    },
+    {
+      "word": "donc",
+      "confidence": 0.794,
+      "start": 184985,
+      "end": 185325,
+      "duration": 340
+    },
+    {
+      "word": "n'hésitez",
+      "confidence": 0.838,
+      "start": 185345,
+      "end": 185785,
+      "duration": 440
+    },
+    {
+      "word": "pas",
+      "confidence": 0.813,
+      "start": 185805,
+      "end": 185885,
+      "duration": 80
+    },
+    {
+      "word": "à",
+      "confidence": 0.026,
+      "start": 185905,
+      "end": 185925,
+      "duration": 20
+    },
+    {
+      "word": "me",
+      "confidence": 0.836,
+      "start": 185945,
+      "end": 186005,
+      "duration": 60
+    },
+    {
+      "word": "laisser",
+      "confidence": 0.855,
+      "start": 186025,
+      "end": 186245,
+      "duration": 220
+    },
+    {
+      "word": "des",
+      "confidence": 0.87,
+      "start": 186285,
+      "end": 186405,
+      "duration": 120
+    },
+    {
+      "word": "commentaires,",
+      "confidence": 0.933,
+      "start": 186425,
+      "end": 187446,
+      "duration": 1021
+    },
+    {
+      "word": "ça",
+      "confidence": 0.624,
+      "start": 187466,
+      "end": 187626,
+      "duration": 160
+    },
+    {
+      "word": "m'intéresse.",
+      "confidence": 0.949,
+      "start": 187666,
+      "end": 188106,
+      "duration": 440
+    }
+  ],
+  "full_text": "Bonjour, le profil évitant ressemble beaucoup à une personne hypersensible, comment faire la différence ? Merci. Alors c'est vrai, pour rien vous cacher, j'ai retravaillé cette vidéo parce que je voulais qu'elle soit un peu plus complète. Donc je suis Sophie Patterson, je suis spécialiste des profils d'attachement, que ce soit évitant, anxieux ou chaotique désorganisé, on va dire que globalement ce sont des profils insécures. Profil d'attachement, c'est sûr. Je travaille aussi sur les questions d'estime de soi et de confiance en soi qui sont souvent mal menées, je le dis à chaque fois. Donc si vous souhaitez des conseils, n'hésitez pas à vous abonner et effectivement regarder toutes les vidéos et celles qui sont épinglées en haut de mon profil. Donc évidemment qu'on pourrait dire, ah ben oui une personne évitante, évidemment elle fuit tout ce qui est sensibilité, tout ce qui est émotionnel, puisque c'est une façon pour eux de ne pas ressentir et de ne pas vouloir ressentir par protection. En réalité, c'est un petit peu annuancé, c'est pour ça que je vais vous retravailler cette vidéo, parce qu'il m'arrive d'avoir des personnes évitantes qui peuvent être tout à fait hypersensibles, avoir une hypersensibilité que ce soit évitant ou aussi profil désorganisé chaotique. C'est-à-dire que dans le profil chaotique, nous avons de l'évitant. et effectivement aussi évidemment de l'anxieux. Mais chez une personne évitante, j'ai le cas de plusieurs clientes, alors je ne sais pas, a priori, ça a l'air plutôt féminin malgré tout, mais nous avons des profils évitants et plutôt, si je dois aller dans le détail, plutôt évitants craintifs, au contraire d'évitants dédaigneux. et les évitants craintifs peuvent avoir cette hypersensibilité que l'on va retrouver même chez un profil évitant et effectivement c'est ce qui va faire que j'ai des clientes qui se croient anxieuses mais en réalité elles sont bien évitantes, les tests en approuvent mais effectivement leur côté craintif va faire que ça va venir toucher leur sensibilité probablement pour certaines hypersensibilités, et justement que ça va être cette hypersensibilité qui va finalement les mettre en difficulté avec un profil évitant, souvent dédaigneux. Donc si vous avez des questions par rapport à ça, n'hésitez pas à me les poser en commentaire. Donc je ne sais pas si je vais réussir à répondre à tout le monde, mais en tout cas j'en prends connaissance et je vais faire d'autres vidéos sur le sujet si ça vous intéresse. Mais effectivement, comment faire la différence ? Eh bien déjà, il faut comprendre vraiment les profils, mais je veux dire que c'est loin d'être facile, puisqu'on a des personnes hypersensibles qui ne sont pas de profil évitant, évidemment, mais il peut y avoir effectivement, comme je l'ai dit dans la vidéo, des profils évitants, s'ils sont dans la partie, effectivement, que l'on dit évitant-craintif. Voilà, donc n'hésitez pas à me laisser des commentaires, ça m'intéresse.",
+  "language": "unknown"
+}

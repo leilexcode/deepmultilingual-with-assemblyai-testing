@@ -1,0 +1,21 @@
+{
+  "file_name": "test_audio_eng.mp3",
+  "language": "unknown",
+  "processing_times": {
+    "assemblyai_transcription": 6.134056806564331,
+    "assemblyai_punctuation": 4.369407892227173,
+    "deepmultilingual": 2.342838764190674
+  },
+  "comparison": {
+    "original_word_count": 60,
+    "assemblyai_word_count": 60,
+    "deepmultilingual_word_count": 60,
+    "assemblyai_punctuation_marks": 8,
+    "deepmultilingual_punctuation_marks": 9
+  },
+  "texts": {
+    "unpunctuated": "despite centuries of maritime exploration we have mapped less than 20% of our ocean floors in detail leaving more than 80% of the ocean largely unexplored the deepest point the challenger deep in the mariana trench plunges nearly 11 kilometers below sea level deeper than mount everest astol scientists estimate that millions of undiscovered species still inhabit these mysterious depths",
+    "assemblyai_punctuated": "Despite centuries of maritime exploration, we have mapped less than 20% of our ocean floors in detail, leaving more than 80% of the ocean largely unexplored. The deepest point, the Challenger deep in the Mariana trench, plunges nearly 11 kilometers below sea level, deeper than Mount Everest. Astol scientists estimate that millions of undiscovered species still inhabit these mysterious depths.",
+    "deepmultilingual_punctuated": "despite centuries of maritime exploration, we have mapped less than 20% of our ocean floors in detail, leaving more than 80% of the ocean largely unexplored. the deepest point, the challenger, deep in the mariana trench, plunges nearly 11 kilometers below sea level, deeper than mount everest astol. scientists estimate that millions of undiscovered species still inhabit these mysterious depths."
+  }
+}

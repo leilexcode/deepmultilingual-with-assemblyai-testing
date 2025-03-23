@@ -1,0 +1,537 @@
+{
+  "status": "success",
+  "processing_time": 27.604664087295532,
+  "total_duration": 29,
+  "word_count": 75,
+  "average_confidence": 0.9581689333333333,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "Mamá,",
+      "confidence": 0.8099,
+      "start": 720,
+      "end": 1024,
+      "duration": 304
+    },
+    {
+      "word": "una",
+      "confidence": 0.99316,
+      "start": 1032,
+      "end": 1192,
+      "duration": 160
+    },
+    {
+      "word": "cosa,",
+      "confidence": 0.97034,
+      "start": 1216,
+      "end": 1464,
+      "duration": 248
+    },
+    {
+      "word": "voy",
+      "confidence": 0.98467,
+      "start": 1512,
+      "end": 1688,
+      "duration": 176
+    },
+    {
+      "word": "a",
+      "confidence": 0.73054,
+      "start": 1704,
+      "end": 1784,
+      "duration": 80
+    },
+    {
+      "word": "ir",
+      "confidence": 0.99908,
+      "start": 1792,
+      "end": 1864,
+      "duration": 72
+    },
+    {
+      "word": "al",
+      "confidence": 0.98695,
+      "start": 1872,
+      "end": 1992,
+      "duration": 120
+    },
+    {
+      "word": "supermercado",
+      "confidence": 0.81665,
+      "start": 2016,
+      "end": 2536,
+      "duration": 520
+    },
+    {
+      "word": "por",
+      "confidence": 0.99893,
+      "start": 2568,
+      "end": 2712,
+      "duration": 144
+    },
+    {
+      "word": "si",
+      "confidence": 0.99948,
+      "start": 2736,
+      "end": 2824,
+      "duration": 88
+    },
+    {
+      "word": "quieres",
+      "confidence": 0.98088,
+      "start": 2832,
+      "end": 3048,
+      "duration": 216
+    },
+    {
+      "word": "que",
+      "confidence": 0.9901,
+      "start": 3064,
+      "end": 3144,
+      "duration": 80
+    },
+    {
+      "word": "compre",
+      "confidence": 0.62057,
+      "start": 3152,
+      "end": 3576,
+      "duration": 424
+    },
+    {
+      "word": "algo.",
+      "confidence": 0.99872,
+      "start": 3608,
+      "end": 4040,
+      "duration": 432
+    },
+    {
+      "word": "Había",
+      "confidence": 0.99947,
+      "start": 4160,
+      "end": 4568,
+      "duration": 408
+    },
+    {
+      "word": "pensado",
+      "confidence": 0.99988,
+      "start": 4584,
+      "end": 5064,
+      "duration": 480
+    },
+    {
+      "word": "en",
+      "confidence": 0.99634,
+      "start": 5112,
+      "end": 5272,
+      "duration": 160
+    },
+    {
+      "word": "comprar",
+      "confidence": 0.99049,
+      "start": 5296,
+      "end": 5752,
+      "duration": 456
+    },
+    {
+      "word": "dos",
+      "confidence": 0.99972,
+      "start": 5816,
+      "end": 6040,
+      "duration": 224
+    },
+    {
+      "word": "barras",
+      "confidence": 0.99953,
+      "start": 6080,
+      "end": 6376,
+      "duration": 296
+    },
+    {
+      "word": "de",
+      "confidence": 0.99911,
+      "start": 6408,
+      "end": 6552,
+      "duration": 144
+    },
+    {
+      "word": "pan",
+      "confidence": 0.99975,
+      "start": 6576,
+      "end": 6808,
+      "duration": 232
+    },
+    {
+      "word": "para",
+      "confidence": 0.99904,
+      "start": 6864,
+      "end": 6984,
+      "duration": 120
+    },
+    {
+      "word": "el",
+      "confidence": 0.99862,
+      "start": 6992,
+      "end": 7112,
+      "duration": 120
+    },
+    {
+      "word": "desayuno,",
+      "confidence": 0.55898,
+      "start": 7136,
+      "end": 7912,
+      "duration": 776
+    },
+    {
+      "word": "unos",
+      "confidence": 0.99824,
+      "start": 8056,
+      "end": 8456,
+      "duration": 400
+    },
+    {
+      "word": "tomates,",
+      "confidence": 0.81745,
+      "start": 8488,
+      "end": 9208,
+      "duration": 720
+    },
+    {
+      "word": "unas",
+      "confidence": 0.95636,
+      "start": 9384,
+      "end": 10120,
+      "duration": 736
+    },
+    {
+      "word": "cebollas",
+      "confidence": 0.99564,
+      "start": 10200,
+      "end": 11048,
+      "duration": 848
+    },
+    {
+      "word": "y",
+      "confidence": 0.9967,
+      "start": 11144,
+      "end": 11400,
+      "duration": 256
+    },
+    {
+      "word": "lo",
+      "confidence": 0.99788,
+      "start": 11440,
+      "end": 11544,
+      "duration": 104
+    },
+    {
+      "word": "que",
+      "confidence": 0.99963,
+      "start": 11552,
+      "end": 11672,
+      "duration": 120
+    },
+    {
+      "word": "no",
+      "confidence": 0.9989,
+      "start": 11696,
+      "end": 11880,
+      "duration": 184
+    },
+    {
+      "word": "sé",
+      "confidence": 0.99731,
+      "start": 11920,
+      "end": 12072,
+      "duration": 152
+    },
+    {
+      "word": "es",
+      "confidence": 0.97594,
+      "start": 12096,
+      "end": 12280,
+      "duration": 184
+    },
+    {
+      "word": "si",
+      "confidence": 0.99256,
+      "start": 12320,
+      "end": 12472,
+      "duration": 152
+    },
+    {
+      "word": "quedan",
+      "confidence": 0.99662,
+      "start": 12496,
+      "end": 12936,
+      "duration": 440
+    },
+    {
+      "word": "patatas.",
+      "confidence": 0.999,
+      "start": 12968,
+      "end": 13800,
+      "duration": 832
+    },
+    {
+      "word": "Si",
+      "confidence": 0.99495,
+      "start": 13960,
+      "end": 14232,
+      "duration": 272
+    },
+    {
+      "word": "lo",
+      "confidence": 0.99064,
+      "start": 14256,
+      "end": 14392,
+      "duration": 136
+    },
+    {
+      "word": "puedes",
+      "confidence": 0.99919,
+      "start": 14416,
+      "end": 14616,
+      "duration": 200
+    },
+    {
+      "word": "mirar",
+      "confidence": 0.97004,
+      "start": 14648,
+      "end": 14904,
+      "duration": 256
+    },
+    {
+      "word": "y",
+      "confidence": 0.99601,
+      "start": 14952,
+      "end": 15160,
+      "duration": 208
+    },
+    {
+      "word": "me",
+      "confidence": 0.998,
+      "start": 15200,
+      "end": 15304,
+      "duration": 104
+    },
+    {
+      "word": "avisas,",
+      "confidence": 0.99694,
+      "start": 15312,
+      "end": 15816,
+      "duration": 504
+    },
+    {
+      "word": "te",
+      "confidence": 0.99854,
+      "start": 15848,
+      "end": 15992,
+      "duration": 144
+    },
+    {
+      "word": "lo",
+      "confidence": 0.99921,
+      "start": 16016,
+      "end": 16104,
+      "duration": 88
+    },
+    {
+      "word": "agradezco.",
+      "confidence": 0.95005,
+      "start": 16112,
+      "end": 16872,
+      "duration": 760
+    },
+    {
+      "word": "Y",
+      "confidence": 0.77029,
+      "start": 17016,
+      "end": 17224,
+      "duration": 208
+    },
+    {
+      "word": "luego",
+      "confidence": 0.94184,
+      "start": 17232,
+      "end": 17592,
+      "duration": 360
+    },
+    {
+      "word": "también",
+      "confidence": 0.99276,
+      "start": 17656,
+      "end": 17880,
+      "duration": 224
+    },
+    {
+      "word": "si",
+      "confidence": 0.99842,
+      "start": 17920,
+      "end": 18072,
+      "duration": 152
+    },
+    {
+      "word": "necesitas",
+      "confidence": 0.99849,
+      "start": 18096,
+      "end": 18616,
+      "duration": 520
+    },
+    {
+      "word": "alguna",
+      "confidence": 0.99148,
+      "start": 18648,
+      "end": 18968,
+      "duration": 320
+    },
+    {
+      "word": "otra",
+      "confidence": 0.99954,
+      "start": 18984,
+      "end": 19208,
+      "duration": 224
+    },
+    {
+      "word": "cosa,",
+      "confidence": 0.99382,
+      "start": 19224,
+      "end": 19704,
+      "duration": 480
+    },
+    {
+      "word": "me",
+      "confidence": 0.99132,
+      "start": 19832,
+      "end": 20024,
+      "duration": 192
+    },
+    {
+      "word": "lo",
+      "confidence": 0.98666,
+      "start": 20032,
+      "end": 20152,
+      "duration": 120
+    },
+    {
+      "word": "escribes",
+      "confidence": 0.99677,
+      "start": 20176,
+      "end": 20568,
+      "duration": 392
+    },
+    {
+      "word": "en",
+      "confidence": 0.99759,
+      "start": 20584,
+      "end": 20712,
+      "duration": 128
+    },
+    {
+      "word": "un",
+      "confidence": 0.9992,
+      "start": 20736,
+      "end": 20824,
+      "duration": 88
+    },
+    {
+      "word": "mensaje",
+      "confidence": 0.62208,
+      "start": 20832,
+      "end": 21448,
+      "duration": 616
+    },
+    {
+      "word": "o",
+      "confidence": 0.99532,
+      "start": 21544,
+      "end": 21848,
+      "duration": 304
+    },
+    {
+      "word": "me",
+      "confidence": 0.99434,
+      "start": 21904,
+      "end": 22216,
+      "duration": 312
+    },
+    {
+      "word": "llamas,",
+      "confidence": 0.99487,
+      "start": 22288,
+      "end": 23128,
+      "duration": 840
+    },
+    {
+      "word": "pero",
+      "confidence": 0.98833,
+      "start": 23224,
+      "end": 23576,
+      "duration": 352
+    },
+    {
+      "word": "rápido",
+      "confidence": 0.92159,
+      "start": 23648,
+      "end": 24120,
+      "duration": 472
+    },
+    {
+      "word": "porque",
+      "confidence": 0.99592,
+      "start": 24200,
+      "end": 24440,
+      "duration": 240
+    },
+    {
+      "word": "voy",
+      "confidence": 0.99693,
+      "start": 24480,
+      "end": 24648,
+      "duration": 168
+    },
+    {
+      "word": "a",
+      "confidence": 0.99458,
+      "start": 24664,
+      "end": 24744,
+      "duration": 80
+    },
+    {
+      "word": "ir",
+      "confidence": 0.99984,
+      "start": 24752,
+      "end": 24920,
+      "duration": 168
+    },
+    {
+      "word": "ya.",
+      "confidence": 0.96897,
+      "start": 24960,
+      "end": 25496,
+      "duration": 536
+    },
+    {
+      "word": "Chao,",
+      "confidence": 0.71572,
+      "start": 25648,
+      "end": 26504,
+      "duration": 856
+    },
+    {
+      "word": "te",
+      "confidence": 0.99082,
+      "start": 26632,
+      "end": 26872,
+      "duration": 240
+    },
+    {
+      "word": "quiero.",
+      "confidence": 0.98848,
+      "start": 26896,
+      "end": 27000,
+      "duration": 104
+    }
+  ],
+  "full_text": "Mamá, una cosa, voy a ir al supermercado por si quieres que compre algo. Había pensado en comprar dos barras de pan para el desayuno, unos tomates, unas cebollas y lo que no sé es si quedan patatas. Si lo puedes mirar y me avisas, te lo agradezco. Y luego también si necesitas alguna otra cosa, me lo escribes en un mensaje o me llamas, pero rápido porque voy a ir ya. Chao, te quiero.",
+  "language": "unknown"
+}

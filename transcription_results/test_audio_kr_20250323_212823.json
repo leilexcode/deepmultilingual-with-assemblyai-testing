@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "processing_time": 6.803772926330566,
+  "total_duration": 238,
+  "word_count": 25,
+  "average_confidence": 0.5930356,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "Yorubunan",
+      "confidence": 0.18543,
+      "start": 217640,
+      "end": 218632,
+      "duration": 992
+    },
+    {
+      "word": "Otan",
+      "confidence": 0.4979,
+      "start": 218696,
+      "end": 219176,
+      "duration": 480
+    },
+    {
+      "word": "chimigai",
+      "confidence": 0.87851,
+      "start": 219208,
+      "end": 219864,
+      "duration": 656
+    },
+    {
+      "word": "style",
+      "confidence": 0.53079,
+      "start": 219912,
+      "end": 220600,
+      "duration": 688
+    },
+    {
+      "word": "using",
+      "confidence": 0.45427,
+      "start": 220760,
+      "end": 221320,
+      "duration": 560
+    },
+    {
+      "word": "Oton",
+      "confidence": 0.66871,
+      "start": 221440,
+      "end": 221912,
+      "duration": 472
+    },
+    {
+      "word": "and",
+      "confidence": 0.68813,
+      "start": 221976,
+      "end": 222152,
+      "duration": 176
+    },
+    {
+      "word": "Donga",
+      "confidence": 0.69912,
+      "start": 222176,
+      "end": 222536,
+      "duration": 360
+    },
+    {
+      "word": "Hagway",
+      "confidence": 0.21796,
+      "start": 222568,
+      "end": 223032,
+      "duration": 464
+    },
+    {
+      "word": "style.",
+      "confidence": 0.54499,
+      "start": 223096,
+      "end": 223848,
+      "duration": 752
+    },
+    {
+      "word": "Kirigo",
+      "confidence": 0.29805,
+      "start": 224024,
+      "end": 224776,
+      "duration": 752
+    },
+    {
+      "word": "Yorubani",
+      "confidence": 0.39285,
+      "start": 224808,
+      "end": 225448,
+      "duration": 640
+    },
+    {
+      "word": "to",
+      "confidence": 0.9908,
+      "start": 225464,
+      "end": 225640,
+      "duration": 176
+    },
+    {
+      "word": "wahana",
+      "confidence": 0.88976,
+      "start": 225680,
+      "end": 226136,
+      "duration": 456
+    },
+    {
+      "word": "on",
+      "confidence": 0.59771,
+      "start": 226168,
+      "end": 226312,
+      "duration": 144
+    },
+    {
+      "word": "donga",
+      "confidence": 0.95134,
+      "start": 226336,
+      "end": 226776,
+      "duration": 440
+    },
+    {
+      "word": "siroana",
+      "confidence": 0.40768,
+      "start": 226808,
+      "end": 227384,
+      "duration": 576
+    },
+    {
+      "word": "undongam",
+      "confidence": 0.49774,
+      "start": 227432,
+      "end": 227928,
+      "duration": 496
+    },
+    {
+      "word": "Boyo.",
+      "confidence": 0.75135,
+      "start": 227944,
+      "end": 228696,
+      "duration": 752
+    },
+    {
+      "word": "Take",
+      "confidence": 0.91754,
+      "start": 228808,
+      "end": 229128,
+      "duration": 320
+    },
+    {
+      "word": "a",
+      "confidence": 0.93165,
+      "start": 229184,
+      "end": 229304,
+      "duration": 120
+    },
+    {
+      "word": "load.",
+      "confidence": 0.7095,
+      "start": 229312,
+      "end": 229496,
+      "duration": 184
+    },
+    {
+      "word": "I'm",
+      "confidence": 0.62263,
+      "start": 229528,
+      "end": 229688,
+      "duration": 160
+    },
+    {
+      "word": "Gadda",
+      "confidence": 0.13582,
+      "start": 229704,
+      "end": 230056,
+      "duration": 352
+    },
+    {
+      "word": "Tayo.",
+      "confidence": 0.36566,
+      "start": 230088,
+      "end": 230360,
+      "duration": 272
+    }
+  ],
+  "full_text": "Yorubunan Otan chimigai style using Oton and Donga Hagway style. Kirigo Yorubani to wahana on donga siroana undongam Boyo. Take a load. I'm Gadda Tayo."
+}

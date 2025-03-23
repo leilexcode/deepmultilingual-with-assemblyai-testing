@@ -1,0 +1,21 @@
+{
+  "file_name": "test_audio.mp3",
+  "language": "unknown",
+  "processing_times": {
+    "assemblyai_transcription": 4.375813722610474,
+    "assemblyai_punctuation": 4.186852931976318,
+    "deepmultilingual": 2.1584088802337646
+  },
+  "comparison": {
+    "original_word_count": 45,
+    "assemblyai_word_count": 45,
+    "deepmultilingual_word_count": 45,
+    "assemblyai_punctuation_marks": 3,
+    "deepmultilingual_punctuation_marks": 4
+  },
+  "texts": {
+    "unpunctuated": "ang manga rainforest a hindi la mang nagli began oxygen at sumasalon carbon dioxide kundi nag sisil bearing natural nagamot bahai nanagdatanglai nungahalaman naginagamit so 25% nangatin manga modern gamot ang pagpo protect us rainforest a hindi la mang parasakali kasan kundipararin sahinabukasana sankata uhan",
+    "assemblyai_punctuated": "Ang manga Rainforest a Hindi la mang nagli began Oxygen at sumasalon carbon dioxide. Kundi nag sisil bearing natural nagamot bahai nanagdatanglai nungahalaman naginagamit so 25% nangatin manga Modern gamot ang pagpo protect us. Rainforest a Hindi la mang parasakali kasan kundipararin sahinabukasana sankata uhan.",
+    "deepmultilingual_punctuated": "ang manga rainforest a hindi la mang nagli began oxygen at sumasalon. carbon dioxide kundi nag sisil bearing natural nagamot bahai nanagdatanglai nungahalaman naginagamit. so 25% nangatin manga modern gamot. ang pagpo protect us rainforest a hindi la mang parasakali kasan kundipararin sahinabukasana sankata uhan."
+  }
+}

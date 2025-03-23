@@ -1,0 +1,327 @@
+{
+  "status": "success",
+  "processing_time": 7.465052843093872,
+  "total_duration": 26,
+  "word_count": 45,
+  "average_confidence": 0.6913728888888889,
+  "utterances": [],
+  "word_confidences": [
+    {
+      "word": "Ang",
+      "confidence": 0.99503,
+      "start": 720,
+      "end": 880,
+      "duration": 160
+    },
+    {
+      "word": "manga",
+      "confidence": 0.34424,
+      "start": 880,
+      "end": 1208,
+      "duration": 328
+    },
+    {
+      "word": "Rainforest",
+      "confidence": 0.99674,
+      "start": 1224,
+      "end": 1784,
+      "duration": 560
+    },
+    {
+      "word": "a",
+      "confidence": 0.44115,
+      "start": 1832,
+      "end": 1992,
+      "duration": 160
+    },
+    {
+      "word": "Hindi",
+      "confidence": 0.72024,
+      "start": 2016,
+      "end": 2328,
+      "duration": 312
+    },
+    {
+      "word": "la",
+      "confidence": 0.98515,
+      "start": 2344,
+      "end": 2472,
+      "duration": 128
+    },
+    {
+      "word": "mang",
+      "confidence": 0.65159,
+      "start": 2496,
+      "end": 2728,
+      "duration": 232
+    },
+    {
+      "word": "nagli",
+      "confidence": 0.29084,
+      "start": 2744,
+      "end": 3048,
+      "duration": 304
+    },
+    {
+      "word": "began",
+      "confidence": 0.1408,
+      "start": 3064,
+      "end": 3480,
+      "duration": 416
+    },
+    {
+      "word": "Oxygen",
+      "confidence": 0.94236,
+      "start": 3560,
+      "end": 4200,
+      "duration": 640
+    },
+    {
+      "word": "at",
+      "confidence": 0.99234,
+      "start": 4280,
+      "end": 4520,
+      "duration": 240
+    },
+    {
+      "word": "sumasalon",
+      "confidence": 0.3041,
+      "start": 4560,
+      "end": 5400,
+      "duration": 840
+    },
+    {
+      "word": "carbon",
+      "confidence": 0.99742,
+      "start": 5480,
+      "end": 5816,
+      "duration": 336
+    },
+    {
+      "word": "dioxide.",
+      "confidence": 0.69245,
+      "start": 5848,
+      "end": 6696,
+      "duration": 848
+    },
+    {
+      "word": "Kundi",
+      "confidence": 0.61447,
+      "start": 6808,
+      "end": 7208,
+      "duration": 400
+    },
+    {
+      "word": "nag",
+      "confidence": 0.75566,
+      "start": 7224,
+      "end": 7416,
+      "duration": 192
+    },
+    {
+      "word": "sisil",
+      "confidence": 0.61985,
+      "start": 7448,
+      "end": 7816,
+      "duration": 368
+    },
+    {
+      "word": "bearing",
+      "confidence": 0.11859,
+      "start": 7848,
+      "end": 8184,
+      "duration": 336
+    },
+    {
+      "word": "natural",
+      "confidence": 0.99727,
+      "start": 8232,
+      "end": 8584,
+      "duration": 352
+    },
+    {
+      "word": "nagamot",
+      "confidence": 0.99859,
+      "start": 8632,
+      "end": 9224,
+      "duration": 592
+    },
+    {
+      "word": "bahai",
+      "confidence": 0.99832,
+      "start": 9272,
+      "end": 9800,
+      "duration": 528
+    },
+    {
+      "word": "nanagdatanglai",
+      "confidence": 0.24802,
+      "start": 9880,
+      "end": 10936,
+      "duration": 1056
+    },
+    {
+      "word": "nungahalaman",
+      "confidence": 0.566,
+      "start": 10968,
+      "end": 11944,
+      "duration": 976
+    },
+    {
+      "word": "naginagamit",
+      "confidence": 0.93842,
+      "start": 11992,
+      "end": 12952,
+      "duration": 960
+    },
+    {
+      "word": "so",
+      "confidence": 0.99324,
+      "start": 13016,
+      "end": 13288,
+      "duration": 272
+    },
+    {
+      "word": "25%",
+      "confidence": 0.99997,
+      "start": 13344,
+      "end": 14184,
+      "duration": 840
+    },
+    {
+      "word": "nangatin",
+      "confidence": 0.33364,
+      "start": 14272,
+      "end": 14808,
+      "duration": 536
+    },
+    {
+      "word": "manga",
+      "confidence": 0.78333,
+      "start": 14824,
+      "end": 15128,
+      "duration": 304
+    },
+    {
+      "word": "Modern",
+      "confidence": 0.97316,
+      "start": 15144,
+      "end": 15624,
+      "duration": 480
+    },
+    {
+      "word": "gamot",
+      "confidence": 0.52148,
+      "start": 15672,
+      "end": 16440,
+      "duration": 768
+    },
+    {
+      "word": "ang",
+      "confidence": 0.99115,
+      "start": 16600,
+      "end": 16920,
+      "duration": 320
+    },
+    {
+      "word": "pagpo",
+      "confidence": 0.74288,
+      "start": 16960,
+      "end": 17496,
+      "duration": 536
+    },
+    {
+      "word": "protect",
+      "confidence": 0.99647,
+      "start": 17528,
+      "end": 17896,
+      "duration": 368
+    },
+    {
+      "word": "us.",
+      "confidence": 0.45316,
+      "start": 17928,
+      "end": 18360,
+      "duration": 432
+    },
+    {
+      "word": "Rainforest",
+      "confidence": 0.38646,
+      "start": 18480,
+      "end": 19112,
+      "duration": 632
+    },
+    {
+      "word": "a",
+      "confidence": 0.60093,
+      "start": 19176,
+      "end": 19352,
+      "duration": 176
+    },
+    {
+      "word": "Hindi",
+      "confidence": 0.96564,
+      "start": 19376,
+      "end": 19608,
+      "duration": 232
+    },
+    {
+      "word": "la",
+      "confidence": 0.96722,
+      "start": 19624,
+      "end": 19752,
+      "duration": 128
+    },
+    {
+      "word": "mang",
+      "confidence": 0.65982,
+      "start": 19776,
+      "end": 20008,
+      "duration": 232
+    },
+    {
+      "word": "parasakali",
+      "confidence": 0.58581,
+      "start": 20024,
+      "end": 20728,
+      "duration": 704
+    },
+    {
+      "word": "kasan",
+      "confidence": 0.94911,
+      "start": 20744,
+      "end": 21288,
+      "duration": 544
+    },
+    {
+      "word": "kundipararin",
+      "confidence": 0.53132,
+      "start": 21384,
+      "end": 22376,
+      "duration": 992
+    },
+    {
+      "word": "sahinabukasana",
+      "confidence": 0.18448,
+      "start": 22408,
+      "end": 23432,
+      "duration": 1024
+    },
+    {
+      "word": "sankata",
+      "confidence": 0.53264,
+      "start": 23496,
+      "end": 23944,
+      "duration": 448
+    },
+    {
+      "word": "uhan.",
+      "confidence": 0.61023,
+      "start": 23992,
+      "end": 24200,
+      "duration": 208
+    }
+  ],
+  "full_text": "Ang manga Rainforest a Hindi la mang nagli began Oxygen at sumasalon carbon dioxide. Kundi nag sisil bearing natural nagamot bahai nanagdatanglai nungahalaman naginagamit so 25% nangatin manga Modern gamot ang pagpo protect us. Rainforest a Hindi la mang parasakali kasan kundipararin sahinabukasana sankata uhan.",
+  "language": "unknown"
+}
