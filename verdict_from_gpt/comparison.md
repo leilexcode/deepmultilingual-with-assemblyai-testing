@@ -37,7 +37,6 @@ Unpunctuated Version is the worst, as it lacks basic readability.
 ---
 
 French
-Comparison & Analysis of the Three Versions
 
 1. Unpunctuated Version
    Pros:
