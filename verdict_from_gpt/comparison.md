@@ -2,6 +2,15 @@ Comparison and Analysis of the Three Versions: Verdict from GPT
 
 ---
 
+Recommended version per language:
+
+- English - Deepmultilingual Punctuation
+- French - Built-in Assembly AI
+- Korean - Built-in Assembly AI
+- Spanish - Built-in Asssemnly AI
+
+---
+
 English
 
 1. Unpunctuated Version
